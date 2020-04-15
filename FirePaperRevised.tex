@@ -47,14 +47,13 @@
 \usepackage{booktabs}
 \usepackage{multirow} % to merge cells from diferent lines
 \usepackage{rotating}
-\usepackage{placeins} % for \FloatBarrier
 
 \setlength{\doublerulesep}{\arrayrulewidth} 
 
-\usepackage{nomencl}  % Package for nomenclature
-\makenomenclature  % Initializes the nomenclature functionality
-
 \usepackage{lscape} % landscape environment to put tables in appendix
+
+\usepackage{nomencl}
+\makenomenclature
 
 \begin{document}
 
@@ -114,7 +113,7 @@ The PM aluminum foam had dimensions 14.8 cm $\times$ 6.0 cm $\times$ 6.0 cm and 
  
 \begin{figure}[htbp]
 	\begin{center}
-		\includegraphics[width=0.95\linewidth]{../../Figures/Fig01a_b_c.png}
+		\includegraphics[width=0.95\linewidth]{../Figures/Fig1a_b_c.png}
 		\caption{Metallic foam samples: (a) aluminum, (b) hollow sphere steel and (c) actual steel specimen before testing. Metallic foams are cellular metals, where steel foam resembles closely packed hollow spheres.}
 		\label{Samples}
 	\end{center}
@@ -126,7 +125,7 @@ The pore size dimensions were determined to ensure that each cross-section conta
 
 \begin{figure}[htbp]
 	\begin{center}
-		\includegraphics[width=0.80\linewidth]{../../Figures/Fig02a_b.png}
+		\includegraphics[width=0.80\linewidth]{../Figures/Fig2a_b.png}
 		\caption{Measurement of the pore size: (a) HS steel foam and (b) aluminum foam sample. Diameter of the spherical shell affects its stability and load capacity.}
 		\label{PoreMeas}
 	\end{center}
@@ -138,13 +137,13 @@ Normal distribution function with mean equal to 1.79 mm and variance of 0.19 mm$
 	\centering
 	\begin{subfigure}{.5\textwidth}
 		\centering
-		\includegraphics[width=0.95\linewidth]{../../Figures/Fig03a.pdf}
+		\includegraphics[width=0.95\linewidth]{../Figures/Fig3a.pdf}
 		\caption{Steel foam}
 		\label{fig3:sub1}
 	\end{subfigure}%
 	\begin{subfigure}{.5\textwidth}
 		\centering
-		\includegraphics[width=0.95\linewidth]{../../Figures/Fig03b.pdf}
+		\includegraphics[width=0.95\linewidth]{../Figures/Fig3b.pdf}
 		\caption{Aluminum foam}
 		\label{fig3:sub2}
 	\end{subfigure}
@@ -156,7 +155,7 @@ If the pore shape is spherical, the measurement of the pore size through a trans
 
 \begin{figure}[htbp]
 	\begin{center}
-		\includegraphics[width=0.95\linewidth]{../../Figures/Fig04.png}
+		\includegraphics[width=0.95\linewidth]{../Figures/Fig4.png}
 		\caption{Schematic lateral view of the cut plane on the sample. One can notice that cross-sectional diameters do not coincide with the true diameter of the sphere or cavity.}
 		\label{FoamCutPlane}
 	\end{center}
@@ -168,10 +167,14 @@ Let us consider an unknown amplification factor as the ratio between the mean of
 \begin{equation}\label{Eq11}
 {r_{proj}}^i=\sqrt{{r_{true}}^2-{h_{proj}^i}^2}
 \end{equation}
+\nomenclature{$r_{p r o j}^{i}$}{Projected Radius used for measuring the size of the spherical pore}
+\nomenclature{$r_{t r u e}$}{True Radius of the spherical pore size}
+\nomenclature{$h_{proj}^{i}$}{Height of the random cut plane used for measurement of the spherical pore size}
+
 
 \begin{figure}[htbp]
 	\begin{center}
-		\includegraphics[width=0.75\linewidth]{../../Figures/Fig05.png}
+		\includegraphics[width=0.75\linewidth]{../Figures/Fig5.png}
 		\caption{Cutting a sphere at random elevations we computed the relationship between the expected mean radius in the cut plane and the real radius of the spherical cavity.}
 		\label{RandomPlaneCut}
 	\end{center}
@@ -182,6 +185,8 @@ Employing Monte-Carlo simulation, we computed the average value of $\hat{r}_{pro
 \begin{equation}\label{Eq12}
 \alpha=\frac{r_{true}}{\hat{r}_{proj}}
 \end{equation}
+\nomenclature{$\alpha$}{Correction factor used for the  measurement of the spherical pore size}
+
 
 An amplification factor $\alpha=1.27$ was obtained resulting in corrected pore diameter of 1.27 $\times$ 1.79 = 2.27 mm in HS steel foam and 1.27 $\times$ 2.13 = 2.70 mm for aluminum foam, which leads us to conclude that the specimens must have at least 22 mm and 27 mm of cross-sectional width respectively. Considering the size of aluminum and steel foam blocks, 25 mm diameter was chosen for both base materials.
 
@@ -221,7 +226,7 @@ The compressive testing was conducted using a servo-hydraulic Materials Testing 
 
 \begin{figure}[htbp]
 	\begin{center}
-		\includegraphics[width=0.95\linewidth]{../../Figures/Fig06.png}
+		\includegraphics[width=0.95\linewidth]{../Figures/Fig6.png}
 		\caption{Thermal-mechanical compressive test setup: (a) annotated schematic of high-temperature furnace, and (b) Actual view of the opened furnace. Sample is heated first, and loaded after stable internal temperature is reached. Strains were measured with an extensometer inside the furnace.}
 		\label{MTSFurnace}
 	\end{center}
@@ -237,46 +242,39 @@ The compressive stress-strain behavior of metallic foams exhibited three distinc
 
 \begin{figure}[htbp]
 	\begin{center}
-		\includegraphics[width=0.75\linewidth]{../../Figures/Fig07.pdf}
+		\includegraphics[width=0.75\linewidth]{../Figures/Fig7.pdf}
 		\caption{Parametrization of a typical, non-linear stress strain curve of metallic foam. Initial modulus corresponds to the foam stiffness, yield stress is computed at 0.2\% offset, plastic hardening is the linear fit and plateau stress is the average stress in the range of 20-30\% strains. Curvature of the transition from elastic to plastic behavior is characterized with parameter $n_y$.}
 		\label{fig:MetFoaBeh}
 	\end{center}
 \end{figure}
+\nomenclature{$E_{i}$}{Initial elastic modulus}
+\nomenclature{$E_{p}$}{Plastic hardening modulus}
+\nomenclature{$n_{y}$}{Shape parameter that controls the sharpness of the transition from the elastic stiffness to the plastic stiffness}
+\nomenclature{$f_{y}$}{Yield stress calculated using the 0.2% offset method}
+\nomenclature{$\sigma_{p l}$}{Plateau Stress}
 
-Results from the steel and aluminum foam specimens tested under uniaxial compression at elevated temperatures are shown in Figures \ref{fig:FoamStrStr}a) and \ref{fig:FoamStrStr}b), respectively. Similar trends were observed for both types of metallic foam, in that each specimen exhibited, but to varying degrees, the three phases of behavior shown in Figure \ref{fig:MetFoaBeh}. The exposure (15 min or 30 min) did not appear to have had a systematic influence on the stress-strain behavior of the specimens.
 
-An insightful reader can notice that properties at 300C are higher than room temperature or 100C. In addition, those from 400C are higher than those from 200C, which seems puzzling at first. However, we observed a thin, blue oxide film on all cells of steel foam at temperatures exceeding 250C (see Figure \ref{fig:BlueOxide}). The effect of steel oxidation at around 300C, the so-called “blue brittleness effect”, is a phenomenon that occurs in steel alloys with significant Carbon content upon heating; particularly within temperatures ranging of $180\,^{\circ}\mathrm{C}$ to $370\,^{\circ}\mathrm{C}$ (\cite{XiongandLiew2016}). The blue oxide layer, which forms on the surface of the metal, is stiffer and stronger than the base steel alloy but more brittle. The addition of a stiffer film on the cells increase the macroscopic stiffness of the foam due to the large surface area relatively to the volume of the base material. The effect of the distributed stiffening of the steel foam become negligible at higher temperatures ad the base steel of the cells loses its stiffness and strength.
 
- The effect of a blue oxide film was also observed in the systematic analysis of the macroscopic steel foam properties at elevated temperatures described later in the paper.
+Results from the steel and aluminum foam specimens tested under uniaxial compression at elevated temperatures are shown in Figures \ref{FoamStrStr}a) and \ref{FoamStrStr}b), respectively. Similar trends were observed for both types of metallic foam, in that each specimen exhibited, but to varying degrees, the three phases of behavior shown in Figure \ref{fig:MetFoaBeh}. The exposure (15 min or 30 min) did not appear to have had a systematic influence on the stress-strain behavior of the specimens.
 
 \begin{figure}
 	\centering
 	\begin{subfigure}{.5\textwidth}
 		\centering
-		\includegraphics[width=0.98\linewidth]{../../Figures/Fig08a.pdf}
+		\includegraphics[width=0.98\linewidth]{../Figures/Fig08a.pdf}
 		\caption{Al foam}
 		\label{fig8:sub1}
 	\end{subfigure}%
 	\begin{subfigure}{.5\textwidth}
 		\centering
-		\includegraphics[width=0.98\linewidth]{../../Figures/Fig08b.pdf}
+		\includegraphics[width=0.98\linewidth]{../Figures/Fig08b.pdf}
 		\caption{Steel foam}
 		\label{fig8:sub2}
 	\end{subfigure}
 	\caption{Stress-strain behavior of metallic foam samples as the ambient temperatures increases. Whereas Al foam loses 50\% of its capacity at $150\,^{\circ}\mathrm{C}$ only, Fe based cellular structure maintains its strength up to  $400\,^{\circ}\mathrm{C}$.}
-	\label{fig:FoamStrStr}
+	\label{FoamStrStr}
 \end{figure}
 
-\begin{figure}[htbp]
-	\begin{center}
-		\includegraphics[width=0.75\linewidth]
-		{../../Figures/Fig09-Blue_brittleness.pdf}
-		\caption{(left) HS steel foam specimen before testing, (right) HS steel foam specimen after testing at $300\,^{\circ}\mathrm{C}$ following 30 minute exposure. Discoloration of the heated specimen indicated formation of the blue oxide film, which was highly likely stiffening the spherical shells. Formation of the stiffer oxide layer could explain better experimental performance of the steel foam samples, in comparison to the simulated predictions.}
-		\label{fig:BlueOxide}
-	\end{center}
-\end{figure}
-
-\FloatBarrier
 
 \section{Micro-mechanical simulations}
 
@@ -302,11 +300,11 @@ After the spheres are successfully placed, the welds are inserted to connect the
 		\multirow{2}[0]{*}{Property} & \multicolumn{2}{c}{Value} \\
 		& Ambient & $550\,^{\circ}\mathrm{C}$ \\
 		\midrule
-		Young modulus & 200 GPa & 91 GPa \\
+		Young modulus & 200 GPa & 91 GPa \\
 		Poisson ratio & 0.29  & 0.29 \\
-		Yield stress & 250 MPa & 67.5 MPa \\
+		Yield stress & 250 MPa & 67.5 MPa \\
 		Ultimate strain & 0.18  & 0.21 \\
-		Ultimate strength & 600 MPa & 192 MPa \\
+		Ultimate strength & 600 MPa & 192 MPa \\
 		\bottomrule
 	\end{tabular}%
 	\label{Tab2}%
@@ -315,12 +313,25 @@ After the spheres are successfully placed, the welds are inserted to connect the
 Von Mises effective stress of the model under increasing compressive pressure (Figure \ref{Figure5}b-c) indicated localized plasticity at the sphere interfaces, which led to sphere deformations. Simulated stress strain curve compared well with the experimental curve (see Figure \ref{Figure5}d).The simulated curves became irregular at large strains because the implicit algorithm used in LS-DYNA struggled to converge on account of the large number of contact surfaces. The simulated curve at $550\,^{\circ}\mathrm{C}$ is noticeably higher than the experimental curve. This discrepancy is attributed to strengthening of the spherical shells due to oxidation of the steel foam at elevated temperatures (see Figure \ref{fig:BlueOxide}). This strengthening was not accounted for in the computational model.
 
 
+The effects of oxidation, the so-called “blue brittleness effect”, is a phenomenon that occurs in steel alloys with significant Carbon content upon heating; particularly within temperatures ranging of $180\,^{\circ}\mathrm{C}$ to $370\,^{\circ}\mathrm{C}$ (\cite{XiongandLiew2016}). The blue brittleness effect is due to a blue oxide film, which forms on the surface of the metal. The film has a higher strength, but a lower ductility, than the base alloy. The effect of a blue oxide film was also observed in the systematic analysis of the macroscopic steel foam properties at elevated temperatures described later in the paper.
+
+
 \begin{figure}[htbp]
 	\begin{center}
 		\includegraphics[width=0.75\linewidth]
-		{../../Figures/Fig10-SimulatedCompression}
+		{../Figures/Fig9-SimulatedCompression}
 		\caption{Comparison of experimental (diamonds and circles) and computational (continuous lines) strength predictions at room (RT) and high temperature ($550\,^{\circ}\mathrm{C}$). Von Mises stress (MPa) localized in the contact regions of the hollow steel spheres. Multiple and irregular load paths followed the random packing of the spheres, which resulted from the nature of the manufacturing process. Whereas simulated and experimental data showed good agreement, steel foam samples exhibited higher stiffness and strength at high temperatures when compared to the computational prediction.}
 		\label{Figure5}
+	\end{center}
+\end{figure}
+
+
+\begin{figure}[htbp]
+	\begin{center}
+		\includegraphics[width=0.75\linewidth]
+		{../Figures/Fig10-Blue_brittleness.pdf}
+		\caption{(left) HS steel foam specimen before testing, (right) HS steel foam specimen after testing at $300\,^{\circ}\mathrm{C}$ following 30 minute exposure. Discoloration of the heated specimen indicated formation of the blue oxide film, which was highly likely stiffening the spherical shells. Formation of the stiffer oxide layer could explain better experimental performance of the steel foam samples, in comparison to the simulated predictions.}
+		\label{fig:BlueOxide}
 	\end{center}
 \end{figure}
 
@@ -331,7 +342,7 @@ The plastic strains localized in a few contact locations at 1.2\% global enginee
 \begin{figure}[htbp]
 	\begin{center}
 		\includegraphics[width=0.80\linewidth]
-		{../../Figures/Fig11-PlasticBuckling.png}
+		{../Figures/Fig11-PlasticBuckling.png}
 		\caption{Plasticity localized at sphere interfaces experiencing plastic deformations arising from contact forces. As the load increased, the number of contact pairs and subsequently, plastic regions surged (b-c). Radius, $R$ and thickness, $t$ of the spherical shell, the diameter of the contact interface, $d_c$ and material properties of the hollow spheres influence the local resistance mechanism (d). Following the initial yielding around the contact region, the plasticity spreads toward the equator of the sphere, accompanied by the gradually increasing diameter of the plastic hinge hoop moving outwards from the initial contact area (e-f). Due to the random packing, the number of contact regions and their directions vary from sphere to sphere, which is consistent with experimental study reported by Fallet et al. in \cite{Fallet2008}.}
 		\label{Fig:SimulatedBuckling}
 	\end{center}
@@ -345,6 +356,14 @@ Pressure applied to a sphere, $q_c$ needs to satisfy equilibrium with the membra
 \begin{equation}\label{Eq1}
 \sigma_{shell}2\pi Rt=q_c\pi \frac{{d_c}^{2}}{4}
 \end{equation}
+\nomenclature{$\sigma_{shell}$}{Buckling Stress of Spherical Shell}
+\nomenclature{R}{Sphere radius}
+\nomenclature{t}{Sphere Thickness}
+\nomenclature{$q_{c}$}{Pressure applied to a sphere}
+\nomenclature{$d_{c}$}{Diameter of the contact area between the spheres}
+
+
+
 
 Thus, the membrane stress resulting from the applied pressure can be approximated as:
 
@@ -357,12 +376,18 @@ When the critical limit of the membrane stress is exceeded, it may fail either d
 \begin{equation}\label{Eq3}
 \sigma_{cr}=\frac{Et}{R\sqrt{3(1-\nu^2)}}
 \end{equation}
+\nomenclature{$\sigma_{c r}$}{Critical limit of membrane stress}
+\nomenclature{E}{Young Modulus}
+\nomenclature{$\mathcal{V}$}{Poisson ratio}
+
 
 Material yielding typically leads to geometrical buckling anyway and the loss of the ideal spherical shape. Thus, the shell capacity of a hollow sphere can be expressed as:
 
 \begin{equation}\label{Eq4}
-\sigma_{buckling}=\min(\sigma_y,\sigma_{cr})
+\sigma_{failure}=\min(\sigma_y,\sigma_{cr})
 \end{equation}
+\nomenclature{$\sigma_{failure}$}{Failure Stress}
+\nomenclature{$\sigma_{y}$}{Yield stress}
 
 
 In the simulations, the steel base metal had Young modulus $E=200$ GPa, Poisson ratio $v=0.29$, and yield stress $\sigma_y=250$ MPa. The average radius of the spheres and thickness were reported in a previous study \cite{Szyniszewskietal2014} as $R = 1.86$ mm and $t = 0.02$ mm. The resulting geometrical slenderness, expressed as a radius to thickness ratio such that $R/t = 93$, is consistent with the plastic buckling region (Figure \ref{fig12:sub1}). A more general measure of the slenderness is the ratio of the plastic yield stress to the elastic buckling stress because it includes the effects of the material properties on the slenderness:
@@ -370,6 +395,7 @@ In the simulations, the steel base metal had Young modulus $E=200$ GPa, Poisson 
 \begin{equation}\label{Eq5}
 \lambda=\frac{\sigma_y}{\sigma_{cr}}
 \end{equation}
+\nomenclature{$\lambda$}{Slenderness}
 
 If slenderness $\lambda<1$, then the structure is controlled by the material failure, namely plastic yielding. Alternatively, $\lambda>1$ indicates high slenderness and propensity for elastic buckling (Figure \ref{fig12:sub2}). \cite{Winter1947} developed an empirical curve for metallic plates, which showed that the transition between plastic and elastic buckling capacities is more gradual and that there exists additional post-buckling reserve capacity in the elastic buckling regime. Even considering Winter’s curve, the HS steel foam, as well as other foams reported by \cite{Fallet2008}, are controlled by plastic buckling. Interestingly, elastic buckling equations for spherical shell also described elastic buckling capacity of a circular shell. Thus, the buckling curve in Figure \ref{fig12:sub2} can also be used to analyzed hollow tubular lattice structures. Even considering the lightest metallic material achieved to-date by \cite{Sch2011}, only one of their configurations was in the elastic buckling region. Schaedler’s experiments showed that the slender lattice exhibited large, reversible deformations, while the stub lattices experienced non-reversible deformations but higher absolute strength. These experimental observations are consistent with plastic and elastic buckling of the cylindrical shells at the junctions of the hollow tubular struts.
 
@@ -378,7 +404,7 @@ If slenderness $\lambda<1$, then the structure is controlled by the material fai
 	\begin{subfigure}{0.95\textwidth}
 		\centering
 		\includegraphics[width=0.65\linewidth]
-		{../../Figures/Fig12a_Buckling_b_t.pdf}
+		{../Figures/Fig12a_Buckling_b_t.pdf}
 		\caption{The effect of geometric slenderness on the buckling capacity of a single sphere.}
 		\label{fig12:sub1}
 	\end{subfigure}
@@ -388,12 +414,14 @@ If slenderness $\lambda<1$, then the structure is controlled by the material fai
 	\begin{subfigure}{0.95\textwidth}
 		\centering
 		\includegraphics[width=0.65\linewidth]
-		{../../Figures/Fig12b_Buckling_lambda.pdf}
+		{../Figures/Fig12b_Buckling_lambda.pdf}
 		\caption{The effect of slenderness ratio on the buckling strength of a hollow sphere.}
 		\label{fig12:sub2}
 	\end{subfigure}
 	\caption{Buckling capacity of a single spherical shell expressed in terms of its critical membrane stress. Geometric slenderness of our hollow sphere steel foam expressed as the ratio of radius to thickness, R/t is low and consistent with the plastic buckling mechanism. Normalized theoretical buckling stress as a function of the non-dimensional slenderness parameter, $\lambda$ overlaid with a range of theoretical capacities of foams and tubular lattice structures. Apart from the ultra-light metallic lattice, most of the manufactured cellular structures have very low slenderness, which is consistent with the irreversible, plastic buckling.}	
 \end{figure}
+\nomenclature{$\sigma_{y}^{shell}$}{Yield stress of the spherical shell}
+\nomenclature{$\sigma_{cr}^{shell}$}{Critical stress of the spherical shell}
 
 
 Based on a review of available data, conventionally produced HS foams exhibit local deformation mechanism controlled by the plastic buckling of the spherical shells. Thus, the thermal degradation of the global mechanical properties of our HS foam specimens is anticipated to be controlled by the influence of elevated temperatures on the base metal’s yield stress.
@@ -403,6 +431,8 @@ Regarding the influence of the temperature on the stiffness of the foam, radial 
 \begin{equation}\label{Eq6}
 w(\varphi)=\frac{q(1+\nu)R^2}{Et}\left [ k(\varphi)\cot\varphi+\cos \varphi- \frac{1}{1+\cos\varphi} \right ]
 \end{equation}
+\nomenclature{q}{Applied pressure}
+\nomenclature{$\varphi$}{Polar coordinate, where 0 corresponds to the equator and pi/2 to the apex of the sphere}
 
 where $k(\varphi)$ is the auxiliary variable:
 
@@ -415,6 +445,7 @@ The deformation of the apex corresponds to $\varphi=\frac{\pi}{2}$, which gives:
 \begin{equation}\label{Eq8}
 w_{apex}=-\frac{q(1+\nu)R^2}{Et}
 \end{equation}
+\nomenclature{$\omega_{a p e x}$}{Deformation of the sphere apex under uniform pressure}
 
 Since the direct influences of temperature on the radius and thickness of the sphere, as well as Poisson’s ratio, are expected to be minimal, the thermal degradation of the foam \emph{stiffness} is anticipated to be controlled by the base metal’s Young modulus.
 
@@ -431,14 +462,14 @@ Porous metallic materials are known to exhibit substantial plastic yielding capa
 	\begin{subfigure}{.5\textwidth}
 		\centering
 		\includegraphics[width=0.95\linewidth]
-		{../../Figures/Fig13a-yield_stress.pdf}
+		{../Figures/Fig13a-yield_stress.pdf}
 		\caption{Steel foam}
 		\label{fig3:sub1}
 	\end{subfigure}%
 	\begin{subfigure}{.5\textwidth}
 		\centering
 		\includegraphics[width=0.95\linewidth]
-		{../../Figures/Fig13b-yield_stress.pdf}
+		{../Figures/Fig13b-yield_stress.pdf}
 		\caption{Aluminum foam}
 		\label{fig3:sub2}
 	\end{subfigure}
@@ -457,14 +488,14 @@ The plateau stress, shown in Figure \ref{Plateu_stress}, was calculated followin
 	\begin{subfigure}{.5\textwidth}
 		\centering
 		\includegraphics[width=0.95\linewidth]
-		{../../Figures/Fig14a-plateau_stress.pdf}
+		{../Figures/Fig14a-plateau_stress.pdf}
 		\caption{Steel foam}
 		\label{fig3:sub1}
 	\end{subfigure}%
 	\begin{subfigure}{.5\textwidth}
 		\centering
 		\includegraphics[width=0.95\linewidth]
-		{../../Figures/Fig14b-plateau_stress.pdf}
+		{../Figures/Fig14b-plateau_stress.pdf}
 		\caption{Aluminum foam}
 		\label{fig3:sub2}
 	\end{subfigure}
@@ -484,6 +515,18 @@ To further characterize the response of the HS steel and aluminum foams, the nin
 \sigma_d+ \frac{\big(E_b(T)-E_d(T)\big)\big(\varepsilon-\varepsilon_d(T)\big)}{{\Bigg(1+\left | \frac{\big(E_b(T)-E_d(T)\big)\big(\varepsilon-\varepsilon_d(T)\big)}{\sigma_p(T)} \right |^{n_b(T)}\Bigg)}^{\Big(\frac{1}{n_b(T)}\Big)}} + E_d(T)\big(\varepsilon-\varepsilon_d(T)\big), & \varepsilon> \varepsilon_d 
 \end{matrix}\right.
 \end{equation}
+\nomenclature{$\sigma_{d}$}{Densification Stress that define the transition to stiffening behavior}
+\nomenclature{$E_{i}(\mathrm{T})$}{Initial elastic modulus at high temperature}
+\nomenclature{$E_{p}(\mathrm{T})$}{Plastic hardening modulus at high temperature}
+\nomenclature{$\varepsilon$}{Compressive strain}
+\nomenclature{$\varepsilon_{d}$}{Densification Strain that define the transition to stiffening behavior}
+\nomenclature{$E_{b}(\mathrm{T})$}{???}
+\nomenclature{$E_{d}(\mathrm{T})$}{Densification stiffness}
+\nomenclature{$\varepsilon_{d}(\mathrm{T})$}{Densification stiffness}
+\nomenclature{$\sigma_{p}(\mathrm{T})$}{Projection of densification stress at zero strain}
+\nomenclature{$n_{b}(T)$}{Shape parameter that controls the sharpness of the transition from the plastic stiffness  to the densification stiffness  at high temperature, Figure 7}
+\nomenclature{$n_{y}(T)$}{Shape parameter that controls the sharpness of the transition from the elastic stiffness  to the plastic stiffness  at high temperature}
+\nomenclature{T}{Temperature}
 
 where
 \begin{equation}\label{Eq10}
@@ -499,7 +542,7 @@ The fitted values for the parameters in Eq. \ref{Eq9} were determined using cons
 	\begin{subfigure}{1.00\textwidth}
 		\centering
 		\includegraphics[width=0.90\linewidth]
-		{../../Figures/Fig15a-StressStrain-fit-Fe.pdf}
+		{../Figures/Fig15a-StressStrain-fit-Fe.pdf}
 		\caption{Steel foam}
 		\label{fig:StressStrain_Rich_Steel}
 	\end{subfigure}
@@ -509,7 +552,7 @@ The fitted values for the parameters in Eq. \ref{Eq9} were determined using cons
 	\begin{subfigure}{1.00\textwidth}
 		\centering
 		\includegraphics[width=0.70\linewidth]
-		{../../Figures/Fig15b-StressStrain-fit-Al.pdf}
+		{../Figures/Fig15b-StressStrain-fit-Al.pdf}
 		\caption{Aluminum foam}
 		\label{fig:StressStrain_Rich_Al}
 	\end{subfigure}
@@ -520,15 +563,15 @@ The fitted values for the parameters in Eq. \ref{Eq9} were determined using cons
 
 \subsubsection{Quasi-Elastic Modulus}
 
-The quasi-elastic modulus is the initial slope of the elastic phase of the compressive stress-strain curve. It should be noted that the definition of the quasi-elastic modulus differs slightly from that of the elastic gradient, which can be calculated only after the specimen has been loaded and subsequently unloaded. The quasi-elastic modulus was calculated by fitting Eq. \ref{Eq9} within $[0, \varepsilon_y]$, where $\varepsilon_y$ is the yield strain calculated using the 0.2 \% offset method recommended by ISO Standard 13314:2011. Figures \ref{fig:qElas_Rich_Steel} and \ref{fig:qElas_Rich_Al} show Eq. \ref{Eq9}, with fitted parameters calculated using structural optimization techniques, relative to the stress-strain data in the elastic phase. Obviously, Eq. \ref{Eq9} can provide a very close approximation to the actual experimental data. The fitted parameter values for each specimen are provided in the appendix. 
-
+The quasi-elastic modulus is the initial slope of the elastic phase of the compressive stress-strain curve. It should be noted that the definition of the quasi-elastic modulus differs slightly from that of the elastic gradient, which can be calculated only after the specimen has been loaded and subsequently unloaded. The quasi-elastic modulus was calculated by fitting Eq. \ref{Eq9} within $[0, \varepsilon_y]$, where $\varepsilon_y$ is the yield strain calculated using the 0.2 \% offset method recommended by ISO Standard 13314:2011. Figures \ref{fig:qElas_Rich_Steel} and \ref{fig:qElas_Rich_Al} show Eq. \ref{Eq9}, with fitted parameters calculated using structural optimization techniques, relative to the stress-strain data in the elastic phase. Obviously, Eq. \ref{Eq9} can provide a very close approximation to the actual experimental data. The fitted parameter values for each specimen are provided in the appendix.
+\nomenclature{$\varepsilon_{y}$}{Yield strain calculated using the 0.2\% offset method}
 
 \begin{figure}
 	\centering
 	\begin{subfigure}{1.00\textwidth}
 		\centering
 		\includegraphics[width=0.90\linewidth]
-		{../../Figures/Fig16a-quasi-Elastic-fit-Fe.pdf}
+		{../Figures/Fig16a-quasi-Elastic-fit-Fe.pdf}
 		\caption{Steel foam}
 		\label{fig:qElas_Rich_Steel}
 	\end{subfigure}
@@ -538,7 +581,7 @@ The quasi-elastic modulus is the initial slope of the elastic phase of the compr
 	\begin{subfigure}{1.00\textwidth}
 		\centering
 		\includegraphics[width=0.70\linewidth]
-		{../../Figures/Fig16b-quasi-Elastic-fit-Al.pdf}
+		{../Figures/Fig16b-quasi-Elastic-fit-Al.pdf}
 		\caption{Aluminum foam}
 		\label{fig:qElas_Rich_Al}
 	\end{subfigure}
@@ -554,14 +597,14 @@ Figure \ref{fig:Quasi-elast-modulus} show the resulting retained quasi-elastic m
 	\begin{subfigure}{0.50\textwidth}
 		\centering
 		\includegraphics[width=0.90\linewidth]
-		{../../Figures/Fig17a-qElast-Fe.pdf}
+		{../Figures/Fig17a-qElast-Fe.pdf}
 		\caption{Steel foam}
 		\label{fig:Quasi-elast-modulus_Steel}
 	\end{subfigure}% need comment here
 	\begin{subfigure}{0.50\textwidth}
 		\centering
 		\includegraphics[width=0.90\linewidth]
-		{../../Figures/Fig17b-qElast-Al.pdf}
+		{../Figures/Fig17b-qElast-Al.pdf}
 		\caption{Aluminum foam}
 		\label{fig:Quasi-elast-modulus_Al}
 	\end{subfigure}
@@ -581,14 +624,14 @@ The fitted parameters enable close approximation of the full stress-strain behav
 	\begin{subfigure}{0.50\textwidth}
 		\centering
 		\includegraphics[width=0.90\linewidth]
-		{../../Figures/Fig18a-quasi-Hardening-Fe.pdf}
+		{../Figures/Fig18a-quasi-Hardening-Fe.pdf}
 		\caption{Steel foam}
 		\label{fig:Quasi-hardening-modulus_Steel}
 	\end{subfigure}% need comment here
 	\begin{subfigure}{0.50\textwidth}
 		\centering
 		\includegraphics[width=0.90\linewidth]
-		{../../Figures/Fig18b-quasi-Hardening-Al.pdf}
+		{../Figures/Fig18b-quasi-Hardening-Al.pdf}
 		\caption{Aluminum foam}
 		\label{fig:Quasi-hardening-modulus_Al}
 	\end{subfigure}
@@ -606,14 +649,14 @@ The point of intersection of the two piecewise curves in Eq. \ref{Eq9} identical
 	\begin{subfigure}{0.50\textwidth}
 		\centering
 		\includegraphics[width=0.90\linewidth]
-		{../../Figures/Fig19a-densification-Fe.pdf}
+		{../Figures/Fig19a-densification-Fe.pdf}
 		\caption{Steel foam}
 		\label{fig:densification_Steel}
 	\end{subfigure}% need comment here
 	\begin{subfigure}{0.50\textwidth}
 		\centering
 		\includegraphics[width=0.90\linewidth]
-		{../../Figures/Fig19b-densification-Al.pdf}
+		{../Figures/Fig19b-densification-Al.pdf}
 		\caption{Aluminum foam}
 		\label{fig:densifiation_Al}
 	\end{subfigure}
@@ -629,7 +672,7 @@ While ISO Standard 13314:2011 does specify a methodology for calculating the ene
 \begin{figure}[htbp]
 	\begin{center}
 		\includegraphics[width=0.60\linewidth]
-		{../../Figures/Fig20-energyAbsorptionEfficiency.png}
+		{../Figures/Fig20-energyAbsorptionEfficiency.png}
 		\vspace{-0.2cm}
 		\caption{Schematic representation of methodology for calculating energy absorption efficiency.}
 		\label{EnAbsEffExpl}
@@ -643,14 +686,14 @@ The energy absorption capacity is calculated either by integrating the stress-st
 	\begin{subfigure}{0.50\textwidth}
 		\centering
 		\includegraphics[width=0.90\linewidth]
-		{../../Figures/Fig21a-EnergyCapacity-Fe.pdf}
+		{../Figures/Fig21a-EnergyCapacity-Fe.pdf}
 		\caption{Steel foam}
 		\label{fig:energyCapacity_Steel}
 	\end{subfigure}% need comment here
 	\begin{subfigure}{0.50\textwidth}
 		\centering
 		\includegraphics[width=0.90\linewidth]
-		{../../Figures/Fig21b-EnergyCapacity-Al.pdf}
+		{../Figures/Fig21b-EnergyCapacity-Al.pdf}
 		\caption{Aluminum foam}
 		\label{fig:energyCapacity_Al}
 	\end{subfigure}
@@ -665,14 +708,14 @@ For the HS steel foam specimens, the energy absorption efficiency is nearly cons
 	\begin{subfigure}{0.50\textwidth}
 		\centering
 		\includegraphics[width=0.90\linewidth]
-		{../../Figures/Fig22a-energyEfficiency-Fe.pdf}
+		{../Figures/Fig22a-energyEfficiency-Fe.pdf}
 		\caption{Steel foam}
 		\label{fig:energyEfficiency_Steel}
 	\end{subfigure}% need comment here
 	\begin{subfigure}{0.50\textwidth}
 		\centering
 		\includegraphics[width=0.90\linewidth]
-		{../../Figures/Fig22b-energyEfficiency-Al.pdf}
+		{../Figures/Fig22b-energyEfficiency-Al.pdf}
 		\caption{Aluminum foam}
 		\label{fig:energyEfficiency_Al}
 	\end{subfigure}
@@ -697,14 +740,14 @@ Although manufacturing of steel foam is more expensive than aluminum foam due to
 	\begin{subfigure}{0.50\textwidth}
 		\centering
 		\includegraphics[width=0.90\linewidth]
-		{../../Figures/Fig23a-retentionFactor-Fe.pdf}
+		{../Figures/Fig23a-retentionFactor-Fe.pdf}
 		\caption{Steel foam}
 		\label{fig:retention_Steel}
 	\end{subfigure}% need comment here
 	\begin{subfigure}{0.50\textwidth}
 		\centering
 		\includegraphics[width=0.90\linewidth]
-		{../../Figures/Fig23b-retentionFactor-Al.pdf}
+		{../Figures/Fig23b-retentionFactor-Al.pdf}
 		\caption{Aluminum foam}
 		\label{retention_Al}
 	\end{subfigure}
@@ -730,74 +773,11 @@ A blue oxide film, forming on the surface of the steel foam, was highly likely r
 
 The high thermal resilience of steel foams suggests that their potential range of application might extend to operations or industrial applications that have traditionally precluded polymeric or even aluminum foams. The energy absorption capacity of the HS steel foam was nearly constant at the temperatures below $400\,^{\circ}\mathrm{C}$, and significant residual energy absorption capacity (about 69 \%) remained at $550\,^{\circ}\mathrm{C}$. In addition, the energy absorption efficiency was essentially constant at about 80 \% and did not diminish at elevated temperatures. Thus, steel foams may be suitable for dissipation of impacts, crashes or other extreme loads at elevated temperatures. It suggests potential applications, where thermal exchange is required at service conditions (e.g. heat sink), and crash absorption is desirable under accidental, extreme load. This research is a part of broader effort to develop understanding of cellular metallic materials with broad relevance to aerospace, automotive, energy and infrastructure applications.
 
-\begin{table}[htbp]
-	\begin{tabular}{ll}
-		\textbf{Acronyms} \\
-		HS    & Hollow Sphere \\
-		PM    & Powder Metallurgy \\
-		ISO   & International Organization for Standardization \\
-		IFAM  & Fraunhofer Institute for Manufacturing Technology and Advanced Materials \\
-		MTS   & Material Testing System \\
-		UTM   & Universal Testing Machine \\
-		RCP   & Random close-packed \\
-		RT    & Room Temperature \\
-		SF    & Steel Foam \\
-		AF    & Aluminum Foam \\
-		METFOAM & International Conference on Porous Metals and Metallic Foams \\
-		EPSRC & Engineering and Physical Science Council \\
-	\end{tabular}%
-\end{table}%
-
-\renewcommand{\nomname}{List of Symbols}
-
-\nomenclature{$r_{p r o j}^{i}$}{Projected Radius used for measuring the size of the spherical pore}
-\nomenclature{$r_{t r u e}$}{True Radius of the spherical pore size}
-\nomenclature{$h_{proj}^{i}$}{Height of the random cut plane used for measurement of the spherical pore size}
-\nomenclature{$\alpha$}{Correction factor used for the  measurement of the spherical pore size}
-\nomenclature{$E_{i}$}{Initial elastic modulus}
-\nomenclature{$E_{p}$}{Plastic hardening modulus}
-\nomenclature{$n_{y}$}{Shape parameter that controls the sharpness of the transition from the elastic stiffness to the plastic stiffness}
-\nomenclature{$f_{y}$}{Yield stress calculated using the 0.2% offset method}
-\nomenclature{$\sigma_{y}$}{Yield stress}
-\nomenclature{$\sigma_{p l}$}{Plateau Stress}
-\nomenclature{R}{Sphere radius}
-\nomenclature{t}{Sphere Thickness}
-\nomenclature{$\sigma_{shell}$}{Buckling Stress of Spherical Shell}
-\nomenclature{$q_{c}$}{Pressure applied to a sphere}
-\nomenclature{$d_{c}$}{Diameter of the contact area between the spheres}
-\nomenclature{$\sigma_{c r}$}{Critical limit of membrane stress}
-\nomenclature{E}{Young Modulus}
-\nomenclature{$\mathcal{V}$}{Poisson ratio}
-\nomenclature{$\sigma_{failure}$}{Failure Stress}
-	\nomenclature{$\lambda$}{Slenderness}
-	\nomenclature{$\sigma_{y}^{shell}$}{Yield stress of the spherical shell}
-	\nomenclature{$\sigma_{cr}^{shell}$}{Critical stress of the spherical shell}
-	\nomenclature{q}{Applied pressure}
-	\nomenclature{$\varphi$}{Polar coordinate, where 0 corresponds to the equator and pi/2 to the apex of the sphere}
-	\nomenclature{$\omega_{a p e x}$}{Deformation of the sphere apex under uniform pressure}
-	\nomenclature{$\sigma_{d}$}{Densification Stress that define the transition to stiffening behavior}
-	\nomenclature{$E_{i}(\mathrm{T})$}{Initial elastic modulus at high temperature}
-	\nomenclature{$E_{p}(\mathrm{T})$}{Plastic hardening modulus at high temperature}
-	\nomenclature{$\varepsilon$}{Compressive strain}
-	\nomenclature{$\varepsilon_{d}$}{Densification Strain that define the transition to stiffening behavior}
-	\nomenclature{$E_{b}(\mathrm{T})$}{Slope of the linear segment passing through $(\sigma_d, \epsilon_d)$ determined through the least-square fit of Richard's equation to experimental data}
-	\nomenclature{$E_{d}(\mathrm{T})$}{Densification stiffness}
-	\nomenclature{$\varepsilon_{d}(\mathrm{T})$}{Densification stiffness}
-	\nomenclature{$\sigma_{p}(\mathrm{T})$}{Projection of densification stress at zero strain}
-	\nomenclature{$n_{b}(T)$}{Shape parameter that controls the sharpness of the transition from the plastic stiffness  to the densification stiffness  at high temperature, Figure 7}
-	\nomenclature{$n_{y}(T)$}{Shape parameter that controls the sharpness of the transition from the elastic stiffness  to the plastic stiffness  at high temperature}
-	\nomenclature{T}{Temperature}
-	\nomenclature{$\varepsilon_{y}$}{Yield strain calculated using the 0.2\% offset method}
-	\nomenclature{$\sigma_{p l}$}{Plateau Stress}
-	\nomenclature{$f_{y}$}{Yield stress calculated using the 0.2% offset method}
-		\printnomenclature[1.5cm]
-
-\section*{Acknowledgements}
+\section*{Acknowledgments}
 
 The authors would like to express heartfelt gratitude to our academic colleagues for their feedback and fruitful discussions. We are grateful to Fraunhofer IWU in Chemnitz and Fraunhofer IFAM in Dresden for the ongoing collaboration, and for their help with supplying the metallic foam rectangular prisms for mechanical testing.
 
 This study was funded by the Research Framework of the European Commission under METFOAM Career Integration Grant 631827 with support from program manager Dr. Ing. Antonio Cipollaro. The work was also supported by the impact acceleration grant no EP/P511456/1, provided by the Engineering and Physical Science Council (EPSRC) in the UK. Support of Dr. Sue Angulatta, a local program manager, is genuinely appreciated. Any opinions, findings, and conclusions expressed in this article are those of the author(s) and do not necessarily reflect the views of EPSRC or the European Commission. 
-
 
 \section*{Data availability}
 
@@ -884,5 +864,94 @@ The Richard Equation parameter values fitted only to elastic phase of each speci
 \end{table}%
 
 \end{landscape}
+
+
+\begin{table}[htbp]
+    \begin{tabular}{ll}
+    \textbf{Acronyms} \\
+    HS    & Hollow Sphere \\
+    PM    & Powder Metallurgy \\
+    ISO   & International Organization for Standardization \\
+    IFAM  & Fraunhofer Institute for Manufacturing Technology and Advanced Materials \\
+    MTS   & Material Testing System \\
+    UTM   & Universal Testing Machine \\
+    RCP   & Random close-packed \\
+    RT    & Room Temperature \\
+    SF    & Steel Foam \\
+    AF    & Aluminum Foam \\
+    METFOAM & ??? \\
+    EPSRC & Engineering and Physical Science Council \\
+    \end{tabular}%
+\end{table}%
+
+
+
+\renewcommand{\nomname}{List of Symbols}
+
+% Equation 1
+%\nomenclature{$r_{p r o j}^{i}$}{Projected Radius used for measuring the size of the spherical pore}
+%\nomenclature{$r_{t r u e}$}{True Radius of the spherical pore size}
+%\nomenclature{$h_{proj}^{i}$}{Height of the random cut plane used for measurement of the spherical pore size}
+
+% Equation 2
+%\nomenclature{$\alpha$}{Correction factor used for the  measurement of the spherical pore size}
+
+% Equations 3 and 4
+%\nomenclature{R}{Sphere radius}
+%\nomenclature{t}{Sphere Thickness}
+%\nomenclature{$\sigma_{shell}$}{Buckling Stress of Spherical Shell}
+%\nomenclature{$q_{c}$}{Pressure applied to a sphere}
+%\nomenclature{$d_{c}$}{Diameter of the contact area between the spheres}
+
+% Equation 5
+%\nomenclature{$\sigma_{c r}$}{Critical limit of membrane stress}
+%\nomenclature{E}{Young Modulus}
+%\nomenclature{$\mathcal{V}$}{Poisson ratio}
+
+% Equation 6
+%\nomenclature{$\sigma_{failure}$}{Failure Stress}
+%\nomenclature{$\sigma_{y}$}{Yield stress}
+
+% Equation 7
+%\nomenclature{$\lambda$}{Slenderness}
+
+
+% Figure 7
+%\nomenclature{$E_{i}$}{Initial elastic modulus}
+%\nomenclature{$E_{p}$}{Plastic hardening modulus}
+%\nomenclature{$n_{y}$}{Shape parameter that controls the sharpness of the transition from the elastic stiffness to the plastic stiffness}
+%\nomenclature{$f_{y}$}{Yield stress calculated using the 0.2% offset method}
+%\nomenclature{$\sigma_{p l}$}{Plateau Stress}
+
+
+% Figures 12a and 12b
+%\nomenclature{$\sigma_{y}^{shell}$}{Yield stress of the spherical shell}
+%\nomenclature{$\sigma_{cr}^{shell}$}{Critical stress of the spherical shell}
+
+
+% Equations 8, 9 and 10
+%\nomenclature{q}{Applied pressure}
+%\nomenclature{$\varphi$}{Polar coordinate, where 0 corresponds to the equator and pi/2 to the apex of the sphere}
+%\nomenclature{$\omega_{a p e x}$}{Deformation of the sphere apex under uniform pressure}
+
+% Equation 11
+%\nomenclature{$\sigma_{d}$}{Densification Stress that define the transition to stiffening behavior}
+%\nomenclature{$E_{i}(\mathrm{T})$}{Initial elastic modulus at high temperature}
+%\nomenclature{$E_{p}(\mathrm{T})$}{Plastic hardening modulus at high temperature}
+%\nomenclature{$\varepsilon$}{Compressive strain}
+%\nomenclature{$\varepsilon_{d}$}{Densification Strain that define the transition to stiffening behavior}
+%\nomenclature{$E_{b}(\mathrm{T})$}{???}
+%\nomenclature{$E_{d}(\mathrm{T})$}{Densification stiffness}
+%\nomenclature{$\varepsilon_{d}(\mathrm{T})$}{Densification stiffness}
+%\nomenclature{$\sigma_{p}(\mathrm{T})$}{Projection of densification stress at zero strain}
+%\nomenclature{$n_{b}(T)$}{Shape parameter that controls the sharpness of the transition from the plastic stiffness  to the densification stiffness  at high temperature, Figure 7}
+%\nomenclature{$n_{y}(T)$}{Shape parameter that controls the sharpness of the transition from the elastic stiffness  to the plastic stiffness  at high temperature}
+%\nomenclature{T}{Temperature}
+
+% Page 26
+%\nomenclature{$\varepsilon_{y}$}{Yield strain calculated using the 0.2\% offset method}
+
+\printnomenclature[1.5cm]
+
 
 \end{document}
