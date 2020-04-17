@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=Ss1XfsaAnfs
+
+https://texblog.org/2012/05/14/list-of-symbols-or-abbreviations-nomenclature/
+
+Make index using this command:
+makeindex.exe %.nlo -s nomencl.ist -o %.nls -t %.nlg
+----------------------------------------------------
+
+instead of default one:
+makeindex.exe %.idx
