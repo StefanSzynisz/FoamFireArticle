@@ -1,5 +1,4 @@
 *.aux
-*.blg
 *.log
 *.nlg
 *.nlo
@@ -7,4 +6,4 @@
 _superseeded/*
 *.out
 *.spl
-*.gz
+*.synctex.gz
