@@ -2,42 +2,42 @@
 \begin{thenomenclature} 
 \nomgroup{A}
   \item [{$\alpha$}]\begingroup Correction factor used for the  measurement of the spherical pore size\nomeqref {2}\nompageref{10}
-  \item [{$\lambda$}]\begingroup Slenderness\nomeqref {7}\nompageref{21}
-  \item [{$\mathcal{V}$}]\begingroup Poisson ratio\nomeqref {5}\nompageref{21}
-  \item [{$\omega_{a p e x}$}]\begingroup Deformation of the sphere apex under uniform pressure\nomeqref {10}\nompageref{22}
-  \item [{$\sigma_{c r}$}]\begingroup Critical limit of membrane stress\nomeqref {5}\nompageref{21}
-  \item [{$\sigma_{cr}^{shell}$}]\begingroup Critical stress of the spherical shell\nomeqref {7}\nompageref{22}
-  \item [{$\sigma_{d}$}]\begingroup Densification Stress that define the transition to stiffening behavior\nomeqref {11}\nompageref{26}
-  \item [{$\sigma_{failure}$}]\begingroup Failure stress\nomeqref {6}\nompageref{21}
+  \item [{$\lambda$}]\begingroup Slenderness\nomeqref {7}\nompageref{22}
+  \item [{$\mathcal{V}$}]\begingroup Poisson ratio\nomeqref {5}\nompageref{22}
+  \item [{$\omega_{a p e x}$}]\begingroup Deformation of the sphere apex under uniform pressure\nomeqref {10}\nompageref{25}
+  \item [{$\sigma_{c r}$}]\begingroup Critical limit of membrane stress\nomeqref {5}\nompageref{22}
+  \item [{$\sigma_{cr}^{shell}$}]\begingroup Critical stress of the spherical shell\nomeqref {7}\nompageref{23}
+  \item [{$\sigma_{d}$}]\begingroup Densification Stress that define the transition to stiffening behavior\nomeqref {11}\nompageref{28}
+  \item [{$\sigma_{failure}$}]\begingroup Failure stress\nomeqref {6}\nompageref{22}
   \item [{$\sigma_{p l}$}]\begingroup Plateau Stress\nomeqref {2}\nompageref{13}
-  \item [{$\sigma_{p}(\mathrm{T})$}]\begingroup Projection of densification stress at zero strain\nomeqref {11}\nompageref{26}
-  \item [{$\sigma_{shell}$}]\begingroup Buckling Stress of Spherical Shell\nomeqref {3}\nompageref{18}
-  \item [{$\sigma_{y}$}]\begingroup Yield stress\nomeqref {6}\nompageref{21}
-  \item [{$\sigma_{y}^{shell}$}]\begingroup Yield stress of the spherical shell\nomeqref {7}\nompageref{22}
-  \item [{$\varepsilon$}]\begingroup Compressive strain\nomeqref {11}\nompageref{26}
-  \item [{$\varepsilon_{d}$}]\begingroup Densification Strain that define the transition to stiffening behavior\nomeqref {11}\nompageref{26}
-  \item [{$\varepsilon_{d}(\mathrm{T})$}]\begingroup Densification stiffness\nomeqref {11}\nompageref{26}
+  \item [{$\sigma_{p}(\mathrm{T})$}]\begingroup Projection of densification stress at zero strain\nomeqref {11}\nompageref{28}
+  \item [{$\sigma_{shell}$}]\begingroup Buckling Stress of Spherical Shell\nomeqref {3}\nompageref{20}
+  \item [{$\sigma_{y}$}]\begingroup Yield stress\nomeqref {6}\nompageref{22}
+  \item [{$\sigma_{y}^{shell}$}]\begingroup Yield stress of the spherical shell\nomeqref {7}\nompageref{23}
+  \item [{$\varepsilon$}]\begingroup Compressive strain\nomeqref {11}\nompageref{28}
+  \item [{$\varepsilon_{d}$}]\begingroup Densification Strain that define the transition to stiffening behavior\nomeqref {11}\nompageref{28}
+  \item [{$\varepsilon_{d}(\mathrm{T})$}]\begingroup Densification stiffness\nomeqref {11}\nompageref{28}
   \item [{$\varepsilon_{y}$}]\begingroup Yield strain calculated using the 0.2\% offset method\nomeqref {12}\nompageref{29}
-  \item [{$\varphi$}]\begingroup Polar coordinate, where 0 corresponds to the equator and pi/2 to the apex of the sphere\nomeqref {8}\nompageref{22}
-  \item [{$d_{c}$}]\begingroup Diameter of the contact area between the spheres\nomeqref {3}\nompageref{18}
-  \item [{$E_{b}(\mathrm{T})$}]\begingroup ???\nomeqref {11}\nompageref{26}
-  \item [{$E_{d}(\mathrm{T})$}]\begingroup Densification stiffness\nomeqref {11}\nompageref{26}
+  \item [{$\varphi$}]\begingroup Polar coordinate, where 0 corresponds to the equator and pi/2 to the apex of the sphere\nomeqref {8}\nompageref{25}
+  \item [{$d_{c}$}]\begingroup Diameter of the contact area between the spheres\nomeqref {3}\nompageref{20}
+  \item [{$E_{b}(\mathrm{T})$}]\begingroup Slope of the segment, which constraints Richard's equation fir at the densification point $(\epsilon_d,\sigma_d)$ , which is obtained by minimizing the square area between the fitted curve and the experimental data\nomeqref {11}\nompageref{28}
+  \item [{$E_{d}(\mathrm{T})$}]\begingroup Densification stiffness\nomeqref {11}\nompageref{28}
   \item [{$E_{i}$}]\begingroup Initial elastic modulus\nomeqref {2}\nompageref{13}
-  \item [{$E_{i}(\mathrm{T})$}]\begingroup Initial elastic modulus at high temperature\nomeqref {11}\nompageref{26}
+  \item [{$E_{i}(\mathrm{T})$}]\begingroup Initial elastic modulus at high temperature\nomeqref {11}\nompageref{28}
   \item [{$E_{p}$}]\begingroup Plastic hardening modulus\nomeqref {2}\nompageref{13}
-  \item [{$E_{p}(\mathrm{T})$}]\begingroup Plastic hardening modulus at high temperature\nomeqref {11}\nompageref{26}
+  \item [{$E_{p}(\mathrm{T})$}]\begingroup Plastic hardening modulus at high temperature\nomeqref {11}\nompageref{28}
   \item [{$f_{y}$}]\begingroup Yield stress calculated using the 0.2 offset method\nomeqref {2}\nompageref{13}
   \item [{$h_{proj}^{i}$}]\begingroup Height of the random cut plane used for measurement of the spherical pore size\nomeqref {1}\nompageref{10}
-  \item [{$n_{b}(T)$}]\begingroup Shape parameter that controls the sharpness of the transition from the plastic stiffness  to the densification stiffness  at high temperature, Figure 7\nomeqref {11}\nompageref{26}
+  \item [{$n_{b}(T)$}]\begingroup Shape parameter that controls the sharpness of the transition from the plastic stiffness  to the densification stiffness  at high temperature, Figure 7\nomeqref {11}\nompageref{28}
   \item [{$n_{y}$}]\begingroup Shape parameter that controls the sharpness of the transition from the elastic stiffness to the plastic stiffness\nomeqref {2}\nompageref{13}
-  \item [{$n_{y}(T)$}]\begingroup Shape parameter that controls the sharpness of the transition from the elastic stiffness  to the plastic stiffness  at high temperature\nomeqref {11}\nompageref{26}
-  \item [{$q_{c}$}]\begingroup Pressure applied to a sphere\nomeqref {3}\nompageref{18}
+  \item [{$n_{y}(T)$}]\begingroup Shape parameter that controls the sharpness of the transition from the elastic stiffness  to the plastic stiffness  at high temperature\nomeqref {11}\nompageref{28}
+  \item [{$q_{c}$}]\begingroup Pressure applied to a sphere\nomeqref {3}\nompageref{20}
   \item [{$r_{p r o j}^{i}$}]\begingroup Projected Radius used for measuring the size of the spherical pore\nomeqref {1}\nompageref{10}
   \item [{$r_{t r u e}$}]\begingroup True Radius of the spherical pore size\nomeqref {1}\nompageref{10}
-  \item [{E}]\begingroup Young Modulus\nomeqref {5}\nompageref{21}
-  \item [{q}]\begingroup Applied pressure\nomeqref {8}\nompageref{22}
-  \item [{R}]\begingroup Sphere radius\nomeqref {3}\nompageref{18}
-  \item [{T}]\begingroup Temperature\nomeqref {11}\nompageref{26}
-  \item [{t}]\begingroup Sphere Thickness\nomeqref {3}\nompageref{18}
+  \item [{E}]\begingroup Young Modulus\nomeqref {5}\nompageref{22}
+  \item [{q}]\begingroup Applied pressure\nomeqref {8}\nompageref{25}
+  \item [{R}]\begingroup Sphere radius\nomeqref {3}\nompageref{20}
+  \item [{T}]\begingroup Temperature\nomeqref {11}\nompageref{28}
+  \item [{t}]\begingroup Sphere Thickness\nomeqref {3}\nompageref{20}
 
 \end{thenomenclature}

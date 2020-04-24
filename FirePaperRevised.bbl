@@ -162,6 +162,10 @@ E.~Linul, D.~Lell, N.~Movahedi, C.~Codrean, T.~Fiedler, Compressive properties
 \newblock \href {https://doi.org/10.1016/j.compositesb.2018.12.019}
   {\path{doi:10.1016/j.compositesb.2018.12.019}}.
 
+\bibitem{hallquist_ls-dyna_2006}
+J.~Hallquist, {LS}-{DYNA} theory manual, Lawrence Software Technology
+  Corporation, Livermore, California, 2006.
+
 \bibitem{ISO13314}
 Technical Committee ISO/TC 164. Compression test for porous and cellular metals
   – ISO 13314:2011.
@@ -213,6 +217,24 @@ R.~Williams, A.~Philipse, Random packings of spheres and spherocylinders
   simulated by mechanical contraction, Physical Review E 67 (2003) 1--9.
 \newblock \href {https://doi.org/10.1103/PhysRevE.67.051301}
   {\path{doi:10.1103/PhysRevE.67.051301}}.
+
+\bibitem{smith_characterization_2012}
+B.~H. Smith, S.~Szyniszewski, J.~F. Hajjar, B.~W. Schafer, S.~R. Arwade,
+  Characterization of {Steel} {Foams} for {Structural} {Components}, Metals
+  2~(4) (2012) 399--410, number: 4 Publisher: Multidisciplinary Digital
+  Publishing Institute.
+\newblock \href {https://doi.org/10.3390/met2040399}
+  {\path{doi:10.3390/met2040399}}.
+
+\bibitem{cverna_worldwide_2006}
+F.~Cverna, Worldwide {Guide} to {Equivalent} {Irons} and {Steels}, ASM
+  International, 2006, google-Books-ID: SpcF9IrYKRoC.
+
+\bibitem{grunder_modeling_2001}
+J.~Gründer, G.~Landgraf, O.~Andersen, P.~Löthman, Modeling and simulation of
+  the meso- and macro-mechanical properties of hollow sphere structures,
+  Cellular Metals and Metal Foaming Technology (ed. J. Banhart, M.F. Ashby,
+  N.A. Fleck). Verlag MIT Publ., Bremen (2001) 6.
 
 \bibitem{Fallet2008}
 A.~Fallet, P.~Lhuissier, Y.~Br\'echet, Mechanical behaviour of metallic hollow
