@@ -1,0 +1,257 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{MahjoobKambiz2008}
+S.~Mahjoob, V.~Kambiz, A synthesis of fluid and thermal transport models for
+  metal foam heat exchangers, International Journal of Heat and Mass Transfer
+  51 (2008) 3701--3711.
+\newblock \href {https://doi.org/10.1016/j.ijheatmasstransfer.2007.12.012}
+  {\path{doi:10.1016/j.ijheatmasstransfer.2007.12.012}}.
+
+\bibitem{Vadwala2011}
+P.~Vadwala, Thermal energy storage in copper foams filled with paraffin wax.
+  MSc Thesis, Mechanical and Industrial Engineering - University of Toronto,
+  Toronto, Canada, 2011.
+
+\bibitem{Yuanetal2012}
+W.~Yuan, Y.~Tang, X.~Yang, Z.~Wan, Porous metal materials for polymer
+  electrolyte membrane fuel cells - a review, Applied Energy 94 (2012)
+  309--329.
+\newblock \href {https://doi.org/10.1016/j.apenergy.2012.01.073}
+  {\path{doi:10.1016/j.apenergy.2012.01.073}}.
+
+\bibitem{Smithetal2012}
+B.~Smith, S.~Szyniszewski, J.~Hajjar, B.~Schafer, S.~Arwade, Steel foam for
+  structures: a review of applications, manufacturing and material properties,
+  Journal of Constructional Steel Research 71 (2012) 1--10.
+\newblock \href {https://doi.org/10.1016/j.jcsr.2011.10.028}
+  {\path{doi:10.1016/j.jcsr.2011.10.028}}.
+
+\bibitem{BanhartSeeliger2008}
+J.~Banhart, H.~Seeliger, Aluminum foam sandwich panels: manufacture, metallurgy
+  and applications, Advance Engineering Materials 10 (2008) 793--802.
+\newblock \href {https://doi.org/10.1002/adem.200800091}
+  {\path{doi:10.1002/adem.200800091}}.
+
+\bibitem{GibsonAshsby1999}
+L.~Gibson, M.~Ashby, Cellular solids: structure and properties, 2nd Edition,
+  Cambridge University Press, 1999.
+
+\bibitem{Ashsby2000}
+M.~Ashby, Metal foams: a design guide, 1st Edition, Butterworth Heinemann,
+  2000.
+
+\bibitem{Lefebvreetal2008}
+L.~Lefebvre, J.~Banhart, D.~Dunand, Porous metals and metallic foams: current
+  status and recent developments, Advance Engineering Materials 10 (2008)
+  775--787.
+\newblock \href {https://doi.org/10.1002/adem.200800241}
+  {\path{doi:10.1002/adem.200800241}}.
+
+\bibitem{DeshpandeFleck2000}
+V.~Deshpande, N.~Fleck, Isotropic constitutive models for metallic foams,
+  Journal of Mechanics and Physics of Solids 48 (2000) 1253--1283.
+\newblock \href {https://doi.org/10.1016/S0022-5096(99)00082-4}
+  {\path{doi:10.1016/S0022-5096(99)00082-4}}.
+
+\bibitem{Reyesetal2003}
+A.~Reyes, O.~Hopperstad, T.~Berstad, A.~Hanssen, M.~Langseth, Constitutive
+  modeling of aluminum foam including fracture and statistical variation of
+  density, European Journal of Mechanics - A/Solids 22 (2003) 815--835.
+\newblock \href {https://doi.org/10.1016/j.euromechsol.2003.08.001}
+  {\path{doi:10.1016/j.euromechsol.2003.08.001}}.
+
+\bibitem{Szyniszewskietal2014}
+S.~Szyniszewski, B.~Smith, J.~Hajjar, B.~Schafer, S.~Arwade, The mechanical
+  properties and modeling of a sintered hollow sphere steel foam, Materials and
+  Design 54 (2014) 1083--1094.
+\newblock \href {https://doi.org/10.1016/j.matdes.2013.08.045}
+  {\path{doi:10.1016/j.matdes.2013.08.045}}.
+
+\bibitem{richeton_influence_2006}
+J.~Richeton, S.~Ahzi, K.~Vecchio, F.~Jiang, R.~Adharapurapu, Influence of
+  temperature and strain rate on the mechanical behavior of three amorphous
+  polymers: {Characterization} and modeling of the compressive yield stress,
+  International Journal of Solids and Structures 43~(7-8) (2006) 2318--2335.
+\newblock \href {https://doi.org/10.1016/j.ijsolstr.2005.06.040}
+  {\path{doi:10.1016/j.ijsolstr.2005.06.040}}.
+
+\bibitem{zhang_mode_2020}
+Y.~Zhang, W.~Liu, C.~Yin, Y.~Ma, L.~Wang, Mode {II} interfacial fracture
+  characterization of foam core sandwich materials at elevated temperatures:
+  the effects of frictional stresses between the crack edges, International
+  Journal of Solids and Structures 193-194 (2020) 28--38.
+\newblock \href {https://doi.org/10.1016/j.ijsolstr.2020.02.001}
+  {\path{doi:10.1016/j.ijsolstr.2020.02.001}}.
+
+\bibitem{thomas_theory_2007}
+J.~Thomas, N.~Triantafyllidis, Theory of necking localization in unconstrained
+  electromagnetic expansion of thin sheets, International Journal of Solids and
+  Structures 44~(21) (2007) 6744--6767.
+\newblock \href {https://doi.org/10.1016/j.ijsolstr.2007.03.007}
+  {\path{doi:10.1016/j.ijsolstr.2007.03.007}}.
+
+\bibitem{Aly2007}
+M.~Aly, Behavior of closed cell aluminium foams upon compressive testing at
+  elevated temperatures: Experimental results, Materials Letters 61 (2007)
+  3138--3141.
+\newblock \href {https://doi.org/10.1016/j.matlet.2006.11.046}
+  {\path{doi:10.1016/j.matlet.2006.11.046}}.
+
+\bibitem{BekozOktay2014}
+N.~Bekoz, E.~Oktay, High temperature mechanical properties of low alloy steel
+  foams produced by powder metallurgy, Materials and Design 53 (2014) 482--489.
+\newblock \href {https://doi.org/10.1016/j.matdes.2013.07.050}
+  {\path{doi:10.1016/j.matdes.2013.07.050}}.
+
+\bibitem{Kovacicetal2016}
+J.~Kov\'a\v{c}ik, L.~Orov\v{c}ik, J.~Jerz, High-temperature compression of
+  closed cell aluminium foams, Kovov\'e Materi\'aly 54 (2016) 429--440.
+\newblock \href {https://doi.org/10.4149/km 2016 6 429} {\path{doi:10.4149/km
+  2016 6 429}}.
+
+\bibitem{Movahedi:2017}
+N.~Movahedi, E.~Linul, Quasi-static compressive behavior of the ex-situ
+  aluminum-alloy foam-filled tubes under elevated temperatures, Materials
+  Letters 206 (2017) 182--184.
+\newblock \href {https://doi.org/10.1016/j.matlet.2017.07.018}
+  {\path{doi:10.1016/j.matlet.2017.07.018}}.
+
+\bibitem{Linul:2017}
+E.~Linul, N.~Movahedi, L.~Marsavina, The temperature effect on the axial
+  quasi-static compressive behavior of ex-situ aluminum foam-filled tubes,
+  Composite Structures 180 (2017) 709--722.
+\newblock \href {https://doi.org/10.1016/j.compstruct.2017.08.034}
+  {\path{doi:10.1016/j.compstruct.2017.08.034}}.
+
+\bibitem{Mondal:2012}
+D.~Mondal, N.~Jha, A.~Badkul, S.~Das, R.~Khedle, High temperature compressive
+  deformation bahaviour of aluminum syntactic foam, Materials Science and
+  Engineering A 534 (2012) 521--529.
+\newblock \href {https://doi.org/10.1016/j.msea.2011.12.002}
+  {\path{doi:10.1016/j.msea.2011.12.002}}.
+
+\bibitem{Bekoz:2014}
+N.~Bekoz, E.~Oktay, High temperature mechanical properties of low alloy steel
+  foams produced by powder metallurgy, Materials and Design 53 (2014) 482--489.
+\newblock \href {https://doi.org/10.1016/j.matdes.2013.07.050}
+  {\path{doi:10.1016/j.matdes.2013.07.050}}.
+
+\bibitem{Liuetal2016}
+J.~Liu, Q.~Qu, Y.~Liu, R.~Li, B.~Liu, Compressive properties of al-si-sic
+  composite foams at elevated temperatures, Journal of Alloys and Compounds 676
+  (2016) 239--244.
+\newblock \href {https://doi.org/10.1016/j.jallcom.2016.03.076}
+  {\path{doi:10.1016/j.jallcom.2016.03.076}}.
+
+\bibitem{Taherishargh2018}
+M.~Taherishargh, E.~Linul, S.~Broxtermann, T.~Fiedler, The mechanical
+  properties of expanded perlite-aluminium syntactic foam at elevated
+  temperatures, Journal of Alloys and Compounds 737 (2018) 590--596.
+\newblock \href {https://doi.org/10.1016/j.jallcom.2017.12.083}
+  {\path{doi:10.1016/j.jallcom.2017.12.083}}.
+
+\bibitem{Linul:2019}
+E.~Linul, D.~Lell, N.~Movahedi, C.~Codrean, T.~Fiedler, Compressive properties
+  of zinc syntactic foams at elevated temperatures, Composites Part B 167
+  (2019) 122--134.
+\newblock \href {https://doi.org/10.1016/j.compositesb.2018.12.019}
+  {\path{doi:10.1016/j.compositesb.2018.12.019}}.
+
+\bibitem{ISO13314}
+Technical Committee ISO/TC 164. Compression test for porous and cellular metals
+  – ISO 13314:2011.
+
+\bibitem{Cobb1987}
+M.~Cobb, World Wide Guide to Equivalent Irons and Steels, 2nd Edition, ASM
+  International, 1987.
+
+\bibitem{Smith2012}
+B.~Smith, Material characterization and computational simulation of steel foam
+  for use in structural applications. MSc Thesis, University of Massachussetts
+  Amherst, Amherst, Massachussetts, U.S.A., 2012.
+
+\bibitem{Avalloneetal2007}
+A.~Avallone, T.~Baumeister, A.~Sadegh, Mark's Standard Handbook for Mechanical
+  Engineers, 11th Edition, McGraw-Hill, 2007.
+
+\bibitem{EC3-1-2}
+European Comittee for Standardization. Eurocode 3: Design of Steel Structures,
+  Part 1-2: General Rules - Structural Fire Design – EN 1993-1-2:2005.
+
+\bibitem{XiongandLiew2016}
+M.~Xiong, J.~Liew, Mechanical properties of heat-treated high tensile
+  structural steel at elevated temperatures, Thin-Walled Structures 98 (2016)
+  169--176.
+\newblock \href {https://doi.org/10.1016/j.tws.2015.04.010}
+  {\path{doi:10.1016/j.tws.2015.04.010}}.
+
+\bibitem{Gaoetal2008}
+Z.~Gao, X.~Yu, H.~Zhao, Mechanical behavior of metallic hollow sphere
+  materials: experimental study, J. Aerospace Eng. 21 (2008) 206--216.
+\newblock \href {https://doi.org/10.1016/(ASCE)0893-1321(2008)21:4(206)}
+  {\path{doi:10.1016/(ASCE)0893-1321(2008)21:4(206)}}.
+
+\bibitem{WouPhi2006}
+A.~Wouterse, A.~Philipse, Geometrical cluster ensemble analysis of random
+  sphere packings, J. Chem. Phys. 125 (2006) 194709--194719.
+\newblock \href {https://doi.org/10.1063/1.2390700}
+  {\path{doi:10.1063/1.2390700}}.
+
+\bibitem{Kansaletal2002}
+A.~Kansal, S.~Torquato, F.~Stillinger, Computer generation of dense
+  polydisperse sphere packings, J. Chem. Phys. 117 (2002) 8212--8218.
+\newblock \href {https://doi.org/10.1063/1.1511510}
+  {\path{doi:10.1063/1.1511510}}.
+
+\bibitem{WilliamsandPhilipse2003}
+R.~Williams, A.~Philipse, Random packings of spheres and spherocylinders
+  simulated by mechanical contraction, Physical Review E 67 (2003) 1--9.
+\newblock \href {https://doi.org/10.1103/PhysRevE.67.051301}
+  {\path{doi:10.1103/PhysRevE.67.051301}}.
+
+\bibitem{Fallet2008}
+A.~Fallet, P.~Lhuissier, Y.~Br\'echet, Mechanical behaviour of metallic hollow
+  spheres foam, Advanced Engineering Materials 10 (2008) 858--862.
+\newblock \href {https://doi.org/10.1002/adem.200800094}
+  {\path{doi:10.1002/adem.200800094}}.
+
+\bibitem{TimGer2009}
+S.~Timoschenko, J.~Gere, Theory of Elastic Stability, 2nd Edition, Dover
+  Publications, Inc., 2009.
+
+\bibitem{Winter1947}
+G.~Winter, Strength of thin steel compression flanges, Transactions of ASCE
+  2035 (1947).
+
+\bibitem{Sch2011}
+T.~Schaedler, A.~Jacobsen, A.~Torrents, A.~Sorensen, J.~Lian, J.~Greer,
+  L.~Valdevit, W.~Carter, Ultralight metallic microlattices, Science 334 (2011)
+  962--965.
+\newblock \href {https://doi.org/10.1126/science.1211649}
+  {\path{doi:10.1126/science.1211649}}.
+
+\bibitem{Wei2018}
+J.~Weigand, R.~Peixoto, L.~Vieira, J.~Main, M.~Seif, An empirical
+  component-based model for shear behavior of high-strength bolts at elevated
+  temperatures, Journal of Constructional Steel Research 147 (2018) 87--102.
+\newblock \href {https://doi.org/10.1016/j.jcsr.2018.03.034}
+  {\path{doi:10.1016/j.jcsr.2018.03.034}}.
+
+\bibitem{Ric1975}
+M.~Richard, J.~Abbot, Versatile elastic-plastic stress-strain formulation,
+  Journal of the Engineering Mechanics 101 (1975) 511--515.
+
+\bibitem{Mat}
+MathWorks, MATLAB Global Optimization Toolbox User's Guide, Version 3.4.1
+  (R2016b), The MathWorks, Inc., Natick, Massachusetts, United States, 2016.
+
+\bibitem{EC9-1-2}
+European Comittee for Standardization. Eurocode 9: Design of Aluminum
+  Structures, Part 1-2: Structural Fire Design – EN 1999-1-2:2007.
+
+\end{thebibliography}
