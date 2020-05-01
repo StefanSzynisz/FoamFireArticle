@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2020.2.10)  1 MAY 2020 06:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2020.2.10)  1 MAY 2020 18:01
 entering extended mode
 **./FirePaperRevised.tex
 (FirePaperRevised.tex
@@ -695,38 +695,37 @@ Overfull \hbox (39.11194pt too wide) detected at line 509
 
 [27 <./Tex-Figures/Fig14a-plateau_stress.pdf> <./Tex-Figures/Fig14b-plateau_str
 ess.pdf>] [28]
-<Tex-Figures/Fig15a-StressStrain-fit-Fe.pdf, id=594, 520.94624pt x 353.32pt>
+<Tex-Figures/Fig15a-StressStrain-fit-Fe.pdf, id=594, 511.9125pt x 409.53pt>
 File: Tex-Figures/Fig15a-StressStrain-fit-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig15a-StressStrain-fit-Fe.pdf>
 Package pdftex.def Info: Tex-Figures/Fig15a-StressStrain-fit-Fe.pdf  used on in
 put line 537.
-(pdftex.def)             Requested size: 310.4979pt x 210.58652pt.
-<Tex-Figures/Fig15b-StressStrain-fit-Al.pdf, id=595, 400.49625pt x 277.035pt>
+(pdftex.def)             Requested size: 310.4979pt x 248.40067pt.
+<Tex-Figures/Fig15b-StressStrain-fit-Al.pdf, id=595, 511.9125pt x 409.53pt>
 File: Tex-Figures/Fig15b-StressStrain-fit-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig15b-StressStrain-fit-Al.pdf>
 Package pdftex.def Info: Tex-Figures/Fig15b-StressStrain-fit-Al.pdf  used on in
 put line 547.
-(pdftex.def)             Requested size: 241.49895pt x 167.05504pt.
-<Tex-Figures/Fig16a-quasi-Elastic-fit-Fe.pdf, id=601, 532.99126pt x 309.155pt>
+(pdftex.def)             Requested size: 241.49895pt x 193.19774pt.
+<Tex-Figures/Fig16a-quasi-Elastic-fit-Fe.pdf, id=601, 511.9125pt x 409.53pt>
 File: Tex-Figures/Fig16a-quasi-Elastic-fit-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig16a-quasi-Elastic-fit-Fe.pdf>
 Package pdftex.def Info: Tex-Figures/Fig16a-quasi-Elastic-fit-Fe.pdf  used on i
 nput line 567.
-(pdftex.def)             Requested size: 310.4979pt x 180.10724pt.
-<Tex-Figures/Fig16b-quasi-Elastic-fit-Al.pdf, id=602, 410.53375pt x 246.9225pt>
-
+(pdftex.def)             Requested size: 310.4979pt x 248.40067pt.
+<Tex-Figures/Fig16b-quasi-Elastic-fit-Al.pdf, id=602, 511.9125pt x 409.53pt>
 File: Tex-Figures/Fig16b-quasi-Elastic-fit-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig16b-quasi-Elastic-fit-Al.pdf>
 Package pdftex.def Info: Tex-Figures/Fig16b-quasi-Elastic-fit-Al.pdf  used on i
 nput line 577.
-(pdftex.def)             Requested size: 241.49895pt x 145.25348pt.
+(pdftex.def)             Requested size: 241.49895pt x 193.19774pt.
  [29] [30 <./Tex-Figures/Fig15a-StressStrain-fit-Fe.pdf> <./Tex-Figures/Fig15b-
 StressStrain-fit-Al.pdf>] [31 <./Tex-Figures/Fig16a-quasi-Elastic-fit-Fe.pdf> <
 ./Tex-Figures/Fig16b-quasi-Elastic-fit-Al.pdf>]
 
 pdfTeX warning: pdflatex (file ./Tex-Figures/Fig17a-qElast-Fe.pdf): PDF inclusi
 on: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig17a-qElast-Fe.pdf, id=1089, 369.38pt x 302.12875pt>
+<Tex-Figures/Fig17a-qElast-Fe.pdf, id=635, 369.38pt x 302.12875pt>
 File: Tex-Figures/Fig17a-qElast-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig17a-qElast-Fe.pdf>
 Package pdftex.def Info: Tex-Figures/Fig17a-qElast-Fe.pdf  used on input line 5
@@ -736,7 +735,7 @@ Package pdftex.def Info: Tex-Figures/Fig17a-qElast-Fe.pdf  used on input line 5
 
 pdfTeX warning: pdflatex (file ./Tex-Figures/Fig17b-qElast-Al.pdf): PDF inclusi
 on: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig17b-qElast-Al.pdf, id=1090, 369.38pt x 298.11375pt>
+<Tex-Figures/Fig17b-qElast-Al.pdf, id=636, 369.38pt x 298.11375pt>
 File: Tex-Figures/Fig17b-qElast-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig17b-qElast-Al.pdf>
 Package pdftex.def Info: Tex-Figures/Fig17b-qElast-Al.pdf  used on input line 6
@@ -746,8 +745,7 @@ Package pdftex.def Info: Tex-Figures/Fig17b-qElast-Al.pdf  used on input line 6
 
 pdfTeX warning: pdflatex (file ./Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf): PD
 F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf, id=1095, 366.36874pt x 298.11375pt>
-
+<Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf, id=641, 366.36874pt x 298.11375pt>
 File: Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf>
 Package pdftex.def Info: Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf  used on inp
@@ -757,8 +755,7 @@ ut line 619.
 
 pdfTeX warning: pdflatex (file ./Tex-Figures/Fig18b-quasi-Hardening-Al.pdf): PD
 F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig18b-quasi-Hardening-Al.pdf, id=1096, 366.36874pt x 298.11375pt>
-
+<Tex-Figures/Fig18b-quasi-Hardening-Al.pdf, id=642, 366.36874pt x 298.11375pt>
 File: Tex-Figures/Fig18b-quasi-Hardening-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig18b-quasi-Hardening-Al.pdf>
 Package pdftex.def Info: Tex-Figures/Fig18b-quasi-Hardening-Al.pdf  used on inp
@@ -768,7 +765,7 @@ ut line 626.
 
 pdfTeX warning: pdflatex (file ./Tex-Figures/Fig19a-densification-Fe.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig19a-densification-Fe.pdf, id=1116, 376.40625pt x 302.12875pt>
+<Tex-Figures/Fig19a-densification-Fe.pdf, id=662, 376.40625pt x 302.12875pt>
 File: Tex-Figures/Fig19a-densification-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig19a-densification-Fe.pdf>
 Package pdftex.def Info: Tex-Figures/Fig19a-densification-Fe.pdf  used on input
@@ -778,7 +775,7 @@ Package pdftex.def Info: Tex-Figures/Fig19a-densification-Fe.pdf  used on input
 
 pdfTeX warning: pdflatex (file ./Tex-Figures/Fig19b-densification-Al.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig19b-densification-Al.pdf, id=1117, 376.40625pt x 302.12875pt>
+<Tex-Figures/Fig19b-densification-Al.pdf, id=663, 376.40625pt x 302.12875pt>
 File: Tex-Figures/Fig19b-densification-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig19b-densification-Al.pdf>
 Package pdftex.def Info: Tex-Figures/Fig19b-densification-Al.pdf  used on input
@@ -786,8 +783,8 @@ Package pdftex.def Info: Tex-Figures/Fig19b-densification-Al.pdf  used on input
 (pdftex.def)             Requested size: 155.24895pt x 124.61581pt.
 [33 <./Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf> <./Tex-Figures/Fig18b-quasi-H
 ardening-Al.pdf>]
-<Tex-Figures/Fig20-energyAbsorptionEfficiency.png, id=1140, 275.22826pt x 222.8
-325pt>
+<Tex-Figures/Fig20-energyAbsorptionEfficiency.png, id=686, 275.22826pt x 222.83
+25pt>
 File: Tex-Figures/Fig20-energyAbsorptionEfficiency.png Graphic file (type png)
 <use Tex-Figures/Fig20-energyAbsorptionEfficiency.png>
 Package pdftex.def Info: Tex-Figures/Fig20-energyAbsorptionEfficiency.png  used
@@ -798,7 +795,7 @@ ation-Al.pdf> <./Tex-Figures/Fig20-energyAbsorptionEfficiency.png>]
 
 pdfTeX warning: pdflatex (file ./Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf): PDF
  inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf, id=1159, 363.3575pt x 302.12875pt>
+<Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf, id=705, 363.3575pt x 302.12875pt>
 File: Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf>
 Package pdftex.def Info: Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf  used on inpu
@@ -808,7 +805,7 @@ t line 681.
 
 pdfTeX warning: pdflatex (file ./Tex-Figures/Fig21b-EnergyCapacity-Al.pdf): PDF
  inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig21b-EnergyCapacity-Al.pdf, id=1160, 370.38374pt x 302.12875pt>
+<Tex-Figures/Fig21b-EnergyCapacity-Al.pdf, id=706, 370.38374pt x 302.12875pt>
 File: Tex-Figures/Fig21b-EnergyCapacity-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig21b-EnergyCapacity-Al.pdf>
 Package pdftex.def Info: Tex-Figures/Fig21b-EnergyCapacity-Al.pdf  used on inpu
@@ -819,7 +816,7 @@ pacity-Al.pdf>]
 
 pdfTeX warning: pdflatex (file ./Tex-Figures/Fig22a-energyEfficiency-Fe.pdf): P
 DF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig22a-energyEfficiency-Fe.pdf, id=1180, 369.38pt x 302.12875pt>
+<Tex-Figures/Fig22a-energyEfficiency-Fe.pdf, id=726, 369.38pt x 302.12875pt>
 File: Tex-Figures/Fig22a-energyEfficiency-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig22a-energyEfficiency-Fe.pdf>
 Package pdftex.def Info: Tex-Figures/Fig22a-energyEfficiency-Fe.pdf  used on in
@@ -829,7 +826,7 @@ put line 703.
 
 pdfTeX warning: pdflatex (file ./Tex-Figures/Fig22b-energyEfficiency-Al.pdf): P
 DF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig22b-energyEfficiency-Al.pdf, id=1181, 369.38pt x 302.12875pt>
+<Tex-Figures/Fig22b-energyEfficiency-Al.pdf, id=727, 369.38pt x 302.12875pt>
 File: Tex-Figures/Fig22b-energyEfficiency-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig22b-energyEfficiency-Al.pdf>
 Package pdftex.def Info: Tex-Figures/Fig22b-energyEfficiency-Al.pdf  used on in
@@ -840,7 +837,7 @@ Efficiency-Al.pdf>] [37]
 
 pdfTeX warning: pdflatex (file ./Tex-Figures/Fig23a-retentionFactor-Fe.pdf): PD
 F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig23a-retentionFactor-Fe.pdf, id=1216, 369.38pt x 298.11375pt>
+<Tex-Figures/Fig23a-retentionFactor-Fe.pdf, id=762, 369.38pt x 298.11375pt>
 File: Tex-Figures/Fig23a-retentionFactor-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig23a-retentionFactor-Fe.pdf>
 Package pdftex.def Info: Tex-Figures/Fig23a-retentionFactor-Fe.pdf  used on inp
@@ -850,7 +847,7 @@ ut line 733.
 
 pdfTeX warning: pdflatex (file ./Tex-Figures/Fig23b-retentionFactor-Al.pdf): PD
 F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig23b-retentionFactor-Al.pdf, id=1217, 369.38pt x 298.11375pt>
+<Tex-Figures/Fig23b-retentionFactor-Al.pdf, id=763, 369.38pt x 298.11375pt>
 File: Tex-Figures/Fig23b-retentionFactor-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig23b-retentionFactor-Al.pdf>
 Package pdftex.def Info: Tex-Figures/Fig23b-retentionFactor-Al.pdf  used on inp
@@ -920,9 +917,9 @@ les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmtt8.pfb>
-Output written on FirePaperRevised.pdf (51 pages, 7055039 bytes).
+Output written on FirePaperRevised.pdf (51 pages, 6898073 bytes).
 PDF statistics:
- 1479 PDF objects out of 1728 (max. 8388607)
+ 1025 PDF objects out of 1200 (max. 8388607)
  172 named destinations out of 1000 (max. 500000)
  317 words of extra memory for PDF output out of 10000 (max. 10000000)
 
