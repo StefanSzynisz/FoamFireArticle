@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2020.2.10)  30 APR 2020 17:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2020.2.10)  1 MAY 2020 06:02
 entering extended mode
 **./FirePaperRevised.tex
 (FirePaperRevised.tex
@@ -524,158 +524,14 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 {C:/Users/Saulo Almeida/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-
-Package natbib Warning: Citation `MahjoobKambiz2008' on page 2 undefined on inp
-ut line 96.
-
-
-Package natbib Warning: Citation `Vadwala2011' on page 2 undefined on input lin
-e 96.
-
-
-Package natbib Warning: Citation `Yuanetal2012' on page 2 undefined on input li
-ne 96.
-
-[2]
-
-Package natbib Warning: Citation `Smithetal2012' on page 3 undefined on input l
-ine 98.
-
-
-Package natbib Warning: Citation `BanhartSeeliger2008' on page 3 undefined on i
-nput line 98.
-
-
-Package natbib Warning: Citation `GibsonAshsby1999' on page 3 undefined on inpu
-t line 98.
-
-
-Package natbib Warning: Citation `Ashsby2000' on page 3 undefined on input line
- 98.
-
-
-Package natbib Warning: Citation `Lefebvreetal2008' on page 3 undefined on inpu
-t line 98.
-
-
-Package natbib Warning: Citation `DeshpandeFleck2000' on page 3 undefined on in
-put line 100.
-
-
-Package natbib Warning: Citation `Reyesetal2003' on page 3 undefined on input l
-ine 100.
-
-
-Package natbib Warning: Citation `Szyniszewskietal2014' on page 3 undefined on 
-input line 100.
-
-
-Package natbib Warning: Citation `Szyniszewskietal2014' on page 3 undefined on 
-input line 100.
-
-
-Package natbib Warning: Citation `DeshpandeFleck2000' on page 3 undefined on in
-put line 100.
-
-[3]
-
-Package natbib Warning: Citation `richeton_influence_2006' on page 4 undefined 
-on input line 102.
-
-
-Package natbib Warning: Citation `zhang_mode_2020' on page 4 undefined on input
- line 102.
-
-
-Package natbib Warning: Citation `thomas_theory_2007' on page 4 undefined on in
-put line 102.
-
-
-Package natbib Warning: Citation `Aly2007' on page 4 undefined on input line 10
-2.
-
-
-Package natbib Warning: Citation `BekozOktay2014' on page 4 undefined on input 
-line 102.
-
-
-Package natbib Warning: Citation `BekozOktay2014' on page 4 undefined on input 
-line 102.
-
-
-Package natbib Warning: Citation `Kovacicetal2016' on page 4 undefined on input
- line 102.
-
-
-Package natbib Warning: Citation `Kovacicetal2016' on page 4 undefined on input
- line 102.
-
-
-Package natbib Warning: Citation `Movahedi:2017' on page 4 undefined on input l
-ine 102.
-
-
-Package natbib Warning: Citation `Linul:2017' on page 4 undefined on input line
- 102.
-
-
-Package natbib Warning: Citation `Linul:2017' on page 4 undefined on input line
- 102.
-
-[4]
-
-Package natbib Warning: Citation `Mondal:2012' on page 5 undefined on input lin
-e 104.
-
-
-Package natbib Warning: Citation `Bekoz:2014' on page 5 undefined on input line
- 104.
-
-
-Package natbib Warning: Citation `Liuetal2016' on page 5 undefined on input lin
-e 104.
-
-
-Package natbib Warning: Citation `Taherishargh2018' on page 5 undefined on inpu
-t line 104.
-
-
-Package natbib Warning: Citation `Linul:2019' on page 5 undefined on input line
- 104.
-
-[5]
-
-Package natbib Warning: Citation `Szyniszewskietal2014' on page 6 undefined on 
-input line 106.
-
-
-Package natbib Warning: Citation `hallquist_ls-dyna_2006' on page 6 undefined o
-n input line 106.
-
-
-Package natbib Warning: Citation `ISO13314' on page 6 undefined on input line 1
-11.
-
-
-Package natbib Warning: Citation `Cobb1987' on page 6 undefined on input line 1
-13.
-
-
-Package natbib Warning: Citation `Smith2012' on page 6 undefined on input line 
-113.
-
-
-Package natbib Warning: Citation `Cobb1987' on page 6 undefined on input line 1
-13.
-
-[6]
-<Tex-Figures/Fig01a_b_c.png, id=116, 673.76718pt x 219.06844pt>
+[2] [3] [4] [5] [6]
+<Tex-Figures/Fig01a_b_c.png, id=177, 673.76718pt x 219.06844pt>
 File: Tex-Figures/Fig01a_b_c.png Graphic file (type png)
 <use Tex-Figures/Fig01a_b_c.png>
 Package pdftex.def Info: Tex-Figures/Fig01a_b_c.png  used on input line 119.
 (pdftex.def)             Requested size: 327.74895pt x 106.56561pt.
  [7 <./Tex-Figures/Fig01a_b_c.png>]
-<Tex-Figures/Fig02a_b.png, id=125, 614.295pt x 305.34074pt>
+<Tex-Figures/Fig02a_b.png, id=188, 614.295pt x 305.34074pt>
 File: Tex-Figures/Fig02a_b.png Graphic file (type png)
 <use Tex-Figures/Fig02a_b.png>
 Package pdftex.def Info: Tex-Figures/Fig02a_b.png  used on input line 131.
@@ -684,7 +540,7 @@ Package pdftex.def Info: Tex-Figures/Fig02a_b.png  used on input line 131.
 
 pdfTeX warning: pdflatex (file ./Tex-Figures/Fig03a.pdf): PDF inclusion: found 
 PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig03a.pdf, id=128, 378.41376pt x 273.02pt>
+<Tex-Figures/Fig03a.pdf, id=191, 378.41376pt x 273.02pt>
 File: Tex-Figures/Fig03a.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig03a.pdf>
 Package pdftex.def Info: Tex-Figures/Fig03a.pdf  used on input line 143.
@@ -693,67 +549,44 @@ Package pdftex.def Info: Tex-Figures/Fig03a.pdf  used on input line 143.
 
 pdfTeX warning: pdflatex (file ./Tex-Figures/Fig03b.pdf): PDF inclusion: found 
 PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig03b.pdf, id=129, 376.40625pt x 273.02pt>
+<Tex-Figures/Fig03b.pdf, id=192, 376.40625pt x 273.02pt>
 File: Tex-Figures/Fig03b.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig03b.pdf>
 Package pdftex.def Info: Tex-Figures/Fig03b.pdf  used on input line 149.
 (pdftex.def)             Requested size: 163.87447pt x 118.86688pt.
-<Tex-Figures/Fig04.png, id=131, 734.745pt x 155.98276pt>
+<Tex-Figures/Fig04.png, id=194, 734.745pt x 155.98276pt>
 File: Tex-Figures/Fig04.png Graphic file (type png)
 <use Tex-Figures/Fig04.png>
 Package pdftex.def Info: Tex-Figures/Fig04.png  used on input line 161.
 (pdftex.def)             Requested size: 327.74895pt x 69.5799pt.
 [8 <./Tex-Figures/Fig02a_b.png>] [9 <./Tex-Figures/Fig03a.pdf> <./Tex-Figures/F
 ig03b.pdf> <./Tex-Figures/Fig04.png>]
-<Tex-Figures/Fig05.png, id=244, 711.25725pt x 292.09125pt>
+<Tex-Figures/Fig05.png, id=307, 711.25725pt x 292.09125pt>
 File: Tex-Figures/Fig05.png Graphic file (type png)
 <use Tex-Figures/Fig05.png>
 Package pdftex.def Info: Tex-Figures/Fig05.png  used on input line 178.
 (pdftex.def)             Requested size: 258.75pt x 106.25807pt.
  [10 <./Tex-Figures/Fig05.png>]
-
-Package natbib Warning: Citation `Avalloneetal2007' on page 11 undefined on inp
-ut line 198.
-
-
-Package natbib Warning: Citation `Ashsby2000' on page 11 undefined on input lin
-e 198.
-
-
-Package natbib Warning: Citation `EC3-1-2' on page 11 undefined on input line 1
-98.
-
-
 Overfull \hbox (63.72304pt too wide) in paragraph at lines 204--221
  [][][] 
  []
 
-<Tex-Figures/Fig06.png, id=258, 723.9045pt x 324.61275pt>
+<Tex-Figures/Fig06.png, id=324, 723.9045pt x 324.61275pt>
 File: Tex-Figures/Fig06.png Graphic file (type png)
 <use Tex-Figures/Fig06.png>
 Package pdftex.def Info: Tex-Figures/Fig06.png  used on input line 229.
 (pdftex.def)             Requested size: 327.74895pt x 146.9709pt.
 [11] [12 <./Tex-Figures/Fig06.png>]
-<Tex-Figures/Fig07.pdf, id=272, 395.85994pt x 354.29854pt>
+<Tex-Figures/Fig07.pdf, id=340, 395.85994pt x 354.29854pt>
 File: Tex-Figures/Fig07.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig07.pdf>
 Package pdftex.def Info: Tex-Figures/Fig07.pdf  used on input line 243.
 (pdftex.def)             Requested size: 258.75pt x 231.58878pt.
-
-
-Package natbib Warning: Citation `Kovacicetal2016' on page 13 undefined on inpu
-t line 254.
-
-[13] [14 <./Tex-Figures/Fig07.pdf>]
-
-Package natbib Warning: Citation `XiongandLiew2016' on page 15 undefined on inp
-ut line 256.
-
-
+ [13] [14 <./Tex-Figures/Fig07.pdf>]
 
 pdfTeX warning: pdflatex (file ./Tex-Figures/Fig08a.pdf): PDF inclusion: found 
 PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig08a.pdf, id=323, 374.39874pt x 273.02pt>
+<Tex-Figures/Fig08a.pdf, id=393, 374.39874pt x 273.02pt>
 File: Tex-Figures/Fig08a.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig08a.pdf>
 Package pdftex.def Info: Tex-Figures/Fig08a.pdf  used on input line 262.
@@ -762,7 +595,7 @@ Package pdftex.def Info: Tex-Figures/Fig08a.pdf  used on input line 262.
 
 pdfTeX warning: pdflatex (file ./Tex-Figures/Fig08b.pdf): PDF inclusion: found 
 PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig08b.pdf, id=324, 374.39874pt x 273.02pt>
+<Tex-Figures/Fig08b.pdf, id=394, 374.39874pt x 273.02pt>
 File: Tex-Figures/Fig08b.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig08b.pdf>
 Package pdftex.def Info: Tex-Figures/Fig08b.pdf  used on input line 268.
@@ -771,110 +604,33 @@ Package pdftex.def Info: Tex-Figures/Fig08b.pdf  used on input line 268.
 
 pdfTeX warning: pdflatex (file ./Tex-Figures/Fig09-Blue_brittleness.pdf): PDF i
 nclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig09-Blue_brittleness.pdf, id=325, 979.66pt x 687.56876pt>
+<Tex-Figures/Fig09-Blue_brittleness.pdf, id=395, 979.66pt x 687.56876pt>
 File: Tex-Figures/Fig09-Blue_brittleness.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig09-Blue_brittleness.pdf>
 Package pdftex.def Info: Tex-Figures/Fig09-Blue_brittleness.pdf  used on input 
 line 279.
 (pdftex.def)             Requested size: 258.75pt x 181.59634pt.
 [15] [16 <./Tex-Figures/Fig08a.pdf> <./Tex-Figures/Fig08b.pdf> <./Tex-Figures/F
-ig09-Blue_brittleness.pdf>]
-
-Package natbib Warning: Citation `Gaoetal2008' on page 17 undefined on input li
-ne 289.
-
-
-Package natbib Warning: Citation `WouPhi2006' on page 17 undefined on input lin
-e 289.
-
-
-Package natbib Warning: Citation `Kansaletal2002' on page 17 undefined on input
- line 289.
-
-
-Package natbib Warning: Citation `WilliamsandPhilipse2003' on page 17 undefined
- on input line 289.
-
-
-Package natbib Warning: Citation `Smith2012' on page 17 undefined on input line
- 300.
-
-
-Package natbib Warning: Citation `smith_characterization_2012' on page 17 undef
-ined on input line 300.
-
-
-Package natbib Warning: Citation `hallquist_ls-dyna_2006' on page 17 undefined 
-on input line 300.
-
-
-Package natbib Warning: Citation `cverna_worldwide_2006' on page 17 undefined o
-n input line 300.
-
-[17]
-<Tex-Figures/Fig10-SimulatedCompression.png, id=361, 407.27156pt x 448.29985pt>
+ig09-Blue_brittleness.pdf>] [17]
+<Tex-Figures/Fig10-SimulatedCompression.png, id=445, 407.27156pt x 448.29985pt>
 
 File: Tex-Figures/Fig10-SimulatedCompression.png Graphic file (type png)
 <use Tex-Figures/Fig10-SimulatedCompression.png>
 Package pdftex.def Info: Tex-Figures/Fig10-SimulatedCompression.png  used on in
 put line 327.
 (pdftex.def)             Requested size: 258.75pt x 284.82457pt.
-
-
-Package natbib Warning: Citation `grunder_modeling_2001' on page 18 undefined o
-n input line 333.
-
-
-Package natbib Warning: Citation `Fallet2008' on page 18 undefined on input lin
-e 333.
-
-[18] [19 <./Tex-Figures/Fig10-SimulatedCompression.png>]
-<Tex-Figures/Fig11-PlasticBuckling.png, id=376, 435.12563pt x 411.78844pt>
+ [18] [19 <./Tex-Figures/Fig10-SimulatedCompression.png>]
+<Tex-Figures/Fig11-PlasticBuckling.png, id=463, 435.12563pt x 411.78844pt>
 File: Tex-Figures/Fig11-PlasticBuckling.png Graphic file (type png)
 <use Tex-Figures/Fig11-PlasticBuckling.png>
 Package pdftex.def Info: Tex-Figures/Fig11-PlasticBuckling.png  used on input l
 ine 338.
 (pdftex.def)             Requested size: 276.00105pt x 261.21255pt.
-
-
-Package natbib Warning: Citation `Fallet2008' on page 20 undefined on input lin
-e 339.
-
-
-Package natbib Warning: Citation `Fallet2008' on page 20 undefined on input lin
-e 339.
-
-
-Package natbib Warning: Citation `TimGer2009' on page 20 undefined on input lin
-e 347.
-
-
-Package natbib Warning: Citation `TimGer2009' on page 20 undefined on input lin
-e 364.
-
-[20] [21 <./Tex-Figures/Fig11-PlasticBuckling.png>]
-
-Package natbib Warning: Citation `Szyniszewskietal2014' on page 22 undefined on
- input line 381.
-
-
-Package natbib Warning: Citation `Winter1947' on page 22 undefined on input lin
-e 388.
-
-
-Package natbib Warning: Citation `Fallet2008' on page 22 undefined on input lin
-e 388.
-
-[22]
-
-Package natbib Warning: Citation `Sch2011' on page 23 undefined on input line 3
-90.
-
-
+ [20] [21 <./Tex-Figures/Fig11-PlasticBuckling.png>] [22]
 
 pdfTeX warning: pdflatex (file ./Tex-Figures/Fig12a_Buckling_b_t.pdf): PDF incl
 usion: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig12a_Buckling_b_t.pdf, id=403, 388.45125pt x 271.0125pt>
+<Tex-Figures/Fig12a_Buckling_b_t.pdf, id=501, 388.45125pt x 271.0125pt>
 File: Tex-Figures/Fig12a_Buckling_b_t.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig12a_Buckling_b_t.pdf>
 Package pdftex.def Info: Tex-Figures/Fig12a_Buckling_b_t.pdf  used on input lin
@@ -884,277 +640,246 @@ e 397.
 
 pdfTeX warning: pdflatex (file ./Tex-Figures/Fig12b_Buckling_lambda.pdf): PDF i
 nclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig12b_Buckling_lambda.pdf, id=404, 380.42125pt x 273.02pt>
+<Tex-Figures/Fig12b_Buckling_lambda.pdf, id=502, 380.42125pt x 273.02pt>
 File: Tex-Figures/Fig12b_Buckling_lambda.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig12b_Buckling_lambda.pdf>
 Package pdftex.def Info: Tex-Figures/Fig12b_Buckling_lambda.pdf  used on input 
 line 407.
 (pdftex.def)             Requested size: 213.0348pt x 152.89432pt.
 [23] [24 <./Tex-Figures/Fig12a_Buckling_b_t.pdf> <./Tex-Figures/Fig12b_Buckling
-_lambda.pdf>]
+_lambda.pdf>] [25]
 
-Package natbib Warning: Citation `TimGer2009' on page 25 undefined on input lin
-e 421.
-
-[25]
-<Tex-Figures/Fig13a-yield_stress.pdf, id=432, 350.30875pt x 252.945pt>
+pdfTeX warning: pdflatex (file ./Tex-Figures/Fig13a-yield_stress.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig13a-yield_stress.pdf, id=532, 369.38pt x 298.11375pt>
 File: Tex-Figures/Fig13a-yield_stress.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig13a-yield_stress.pdf>
 Package pdftex.def Info: Tex-Figures/Fig13a-yield_stress.pdf  used on input lin
 e 457.
-(pdftex.def)             Requested size: 163.87447pt x 118.32837pt.
-<Tex-Figures/Fig13b-yield_stress.pdf, id=433, 350.30875pt x 252.945pt>
+(pdftex.def)             Requested size: 163.87447pt x 132.25763pt.
+
+
+pdfTeX warning: pdflatex (file ./Tex-Figures/Fig13b-yield_stress.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig13b-yield_stress.pdf, id=533, 369.38pt x 298.11375pt>
 File: Tex-Figures/Fig13b-yield_stress.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig13b-yield_stress.pdf>
 Package pdftex.def Info: Tex-Figures/Fig13b-yield_stress.pdf  used on input lin
 e 464.
-(pdftex.def)             Requested size: 163.87447pt x 118.32837pt.
-<Tex-Figures/Fig14a-plateau_stress.pdf, id=435, 350.30875pt x 252.945pt>
+(pdftex.def)             Requested size: 163.87447pt x 132.25763pt.
+
+
+pdfTeX warning: pdflatex (file ./Tex-Figures/Fig14a-plateau_stress.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig14a-plateau_stress.pdf, id=535, 369.38pt x 298.11375pt>
 File: Tex-Figures/Fig14a-plateau_stress.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig14a-plateau_stress.pdf>
 Package pdftex.def Info: Tex-Figures/Fig14a-plateau_stress.pdf  used on input l
 ine 483.
-(pdftex.def)             Requested size: 163.87447pt x 118.32837pt.
-<Tex-Figures/Fig14b-plateau_stress.pdf, id=436, 350.30875pt x 252.945pt>
+(pdftex.def)             Requested size: 163.87447pt x 132.25763pt.
+
+
+pdfTeX warning: pdflatex (file ./Tex-Figures/Fig14b-plateau_stress.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig14b-plateau_stress.pdf, id=536, 369.38pt x 298.11375pt>
 File: Tex-Figures/Fig14b-plateau_stress.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig14b-plateau_stress.pdf>
 Package pdftex.def Info: Tex-Figures/Fig14b-plateau_stress.pdf  used on input l
 ine 490.
-(pdftex.def)             Requested size: 163.87447pt x 118.32837pt.
- [26 <./Tex-Figures/Fig13a-yield_stress.pdf> <./Tex-Figures/Fig13b-yield_stress
-.pdf>]
+(pdftex.def)             Requested size: 163.87447pt x 132.25763pt.
+[26 <./Tex-Figures/Fig13a-yield_stress.pdf> <./Tex-Figures/Fig13b-yield_stress.
+pdf>]
 Overfull \hbox (39.11194pt too wide) detected at line 509
 \OML/cmm/m/it/10 \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 "; T\OT1/cmr/m/n/10 ) = []
  []
 
 [27 <./Tex-Figures/Fig14a-plateau_stress.pdf> <./Tex-Figures/Fig14b-plateau_str
-ess.pdf>]
-
-Package natbib Warning: Citation `Wei2018' on page 28 undefined on input line 5
-28.
-
-
-Package natbib Warning: Citation `Ric1975' on page 28 undefined on input line 5
-28.
-
-
-Package natbib Warning: Citation `Mat' on page 28 undefined on input line 530.
-
-[28]
-<Tex-Figures/Fig15a-StressStrain-fit-Fe.pdf, id=484, 520.94624pt x 353.32pt>
+ess.pdf>] [28]
+<Tex-Figures/Fig15a-StressStrain-fit-Fe.pdf, id=594, 520.94624pt x 353.32pt>
 File: Tex-Figures/Fig15a-StressStrain-fit-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig15a-StressStrain-fit-Fe.pdf>
 Package pdftex.def Info: Tex-Figures/Fig15a-StressStrain-fit-Fe.pdf  used on in
 put line 537.
 (pdftex.def)             Requested size: 310.4979pt x 210.58652pt.
-<Tex-Figures/Fig15b-StressStrain-fit-Al.pdf, id=485, 400.49625pt x 277.035pt>
+<Tex-Figures/Fig15b-StressStrain-fit-Al.pdf, id=595, 400.49625pt x 277.035pt>
 File: Tex-Figures/Fig15b-StressStrain-fit-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig15b-StressStrain-fit-Al.pdf>
 Package pdftex.def Info: Tex-Figures/Fig15b-StressStrain-fit-Al.pdf  used on in
 put line 547.
 (pdftex.def)             Requested size: 241.49895pt x 167.05504pt.
-<Tex-Figures/Fig16a-quasi-Elastic-fit-Fe.pdf, id=491, 532.99126pt x 309.155pt>
+<Tex-Figures/Fig16a-quasi-Elastic-fit-Fe.pdf, id=601, 532.99126pt x 309.155pt>
 File: Tex-Figures/Fig16a-quasi-Elastic-fit-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig16a-quasi-Elastic-fit-Fe.pdf>
 Package pdftex.def Info: Tex-Figures/Fig16a-quasi-Elastic-fit-Fe.pdf  used on i
 nput line 567.
 (pdftex.def)             Requested size: 310.4979pt x 180.10724pt.
-<Tex-Figures/Fig16b-quasi-Elastic-fit-Al.pdf, id=492, 410.53375pt x 246.9225pt>
+<Tex-Figures/Fig16b-quasi-Elastic-fit-Al.pdf, id=602, 410.53375pt x 246.9225pt>
 
 File: Tex-Figures/Fig16b-quasi-Elastic-fit-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig16b-quasi-Elastic-fit-Al.pdf>
 Package pdftex.def Info: Tex-Figures/Fig16b-quasi-Elastic-fit-Al.pdf  used on i
 nput line 577.
 (pdftex.def)             Requested size: 241.49895pt x 145.25348pt.
-<Tex-Figures/Fig17a-qElast-Fe.pdf, id=494, 350.30875pt x 255.95625pt>
+ [29] [30 <./Tex-Figures/Fig15a-StressStrain-fit-Fe.pdf> <./Tex-Figures/Fig15b-
+StressStrain-fit-Al.pdf>] [31 <./Tex-Figures/Fig16a-quasi-Elastic-fit-Fe.pdf> <
+./Tex-Figures/Fig16b-quasi-Elastic-fit-Al.pdf>]
+
+pdfTeX warning: pdflatex (file ./Tex-Figures/Fig17a-qElast-Fe.pdf): PDF inclusi
+on: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig17a-qElast-Fe.pdf, id=1089, 369.38pt x 302.12875pt>
 File: Tex-Figures/Fig17a-qElast-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig17a-qElast-Fe.pdf>
 Package pdftex.def Info: Tex-Figures/Fig17a-qElast-Fe.pdf  used on input line 5
 93.
-(pdftex.def)             Requested size: 155.24895pt x 113.43735pt.
-<Tex-Figures/Fig17b-qElast-Al.pdf, id=495, 350.30875pt x 252.945pt>
+(pdftex.def)             Requested size: 155.24895pt x 126.98079pt.
+
+
+pdfTeX warning: pdflatex (file ./Tex-Figures/Fig17b-qElast-Al.pdf): PDF inclusi
+on: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig17b-qElast-Al.pdf, id=1090, 369.38pt x 298.11375pt>
 File: Tex-Figures/Fig17b-qElast-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig17b-qElast-Al.pdf>
 Package pdftex.def Info: Tex-Figures/Fig17b-qElast-Al.pdf  used on input line 6
 00.
-(pdftex.def)             Requested size: 155.24895pt x 112.1028pt.
- [29] [30 <./Tex-Figures/Fig15a-StressStrain-fit-Fe.pdf> <./Tex-Figures/Fig15b-
-StressStrain-fit-Al.pdf>] [31 <./Tex-Figures/Fig16a-quasi-Elastic-fit-Fe.pdf> <
-./Tex-Figures/Fig16b-quasi-Elastic-fit-Al.pdf>]
-<Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf, id=981, 347.2975pt x 252.945pt>
+(pdftex.def)             Requested size: 155.24895pt x 125.29335pt.
+
+
+pdfTeX warning: pdflatex (file ./Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf): PD
+F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf, id=1095, 366.36874pt x 298.11375pt>
+
 File: Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf>
 Package pdftex.def Info: Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf  used on inp
 ut line 619.
-(pdftex.def)             Requested size: 155.24895pt x 113.07542pt.
-<Tex-Figures/Fig18b-quasi-Hardening-Al.pdf, id=982, 347.2975pt x 252.945pt>
+(pdftex.def)             Requested size: 155.24895pt x 126.32593pt.
+
+
+pdfTeX warning: pdflatex (file ./Tex-Figures/Fig18b-quasi-Hardening-Al.pdf): PD
+F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig18b-quasi-Hardening-Al.pdf, id=1096, 366.36874pt x 298.11375pt>
+
 File: Tex-Figures/Fig18b-quasi-Hardening-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig18b-quasi-Hardening-Al.pdf>
 Package pdftex.def Info: Tex-Figures/Fig18b-quasi-Hardening-Al.pdf  used on inp
 ut line 626.
-(pdftex.def)             Requested size: 155.24895pt x 113.07542pt.
- [32 <./Tex-Figures/Fig17a-qElast-Fe.pdf> <./Tex-Figures/Fig17b-qElast-Al.pdf> 
-<./Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf> <./Tex-Figures/Fig18b-quasi-Harde
-ning-Al.pdf>]
-<Tex-Figures/Fig19a-densification-Fe.pdf, id=1006, 350.30875pt x 255.95625pt>
+(pdftex.def)             Requested size: 155.24895pt x 126.32593pt.
+[32 <./Tex-Figures/Fig17a-qElast-Fe.pdf> <./Tex-Figures/Fig17b-qElast-Al.pdf>]
+
+pdfTeX warning: pdflatex (file ./Tex-Figures/Fig19a-densification-Fe.pdf): PDF 
+inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig19a-densification-Fe.pdf, id=1116, 376.40625pt x 302.12875pt>
 File: Tex-Figures/Fig19a-densification-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig19a-densification-Fe.pdf>
 Package pdftex.def Info: Tex-Figures/Fig19a-densification-Fe.pdf  used on input
  line 644.
-(pdftex.def)             Requested size: 155.24895pt x 113.43735pt.
-<Tex-Figures/Fig19b-densification-Al.pdf, id=1007, 350.30875pt x 255.95625pt>
+(pdftex.def)             Requested size: 155.24895pt x 124.61581pt.
+
+
+pdfTeX warning: pdflatex (file ./Tex-Figures/Fig19b-densification-Al.pdf): PDF 
+inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig19b-densification-Al.pdf, id=1117, 376.40625pt x 302.12875pt>
 File: Tex-Figures/Fig19b-densification-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig19b-densification-Al.pdf>
 Package pdftex.def Info: Tex-Figures/Fig19b-densification-Al.pdf  used on input
  line 651.
-(pdftex.def)             Requested size: 155.24895pt x 113.43735pt.
-<Tex-Figures/Fig20-energyAbsorptionEfficiency.png, id=1012, 275.22826pt x 222.8
+(pdftex.def)             Requested size: 155.24895pt x 124.61581pt.
+[33 <./Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf> <./Tex-Figures/Fig18b-quasi-H
+ardening-Al.pdf>]
+<Tex-Figures/Fig20-energyAbsorptionEfficiency.png, id=1140, 275.22826pt x 222.8
 325pt>
 File: Tex-Figures/Fig20-energyAbsorptionEfficiency.png Graphic file (type png)
 <use Tex-Figures/Fig20-energyAbsorptionEfficiency.png>
 Package pdftex.def Info: Tex-Figures/Fig20-energyAbsorptionEfficiency.png  used
  on input line 667.
 (pdftex.def)             Requested size: 207.0021pt x 167.59998pt.
- [33 <./Tex-Figures/Fig19a-densification-Fe.pdf> <./Tex-Figures/Fig19b-densific
-ation-Al.pdf>]
-<Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf, id=1028, 340.27126pt x 255.95625pt>
+ [34 <./Tex-Figures/Fig19a-densification-Fe.pdf> <./Tex-Figures/Fig19b-densific
+ation-Al.pdf> <./Tex-Figures/Fig20-energyAbsorptionEfficiency.png>]
+
+pdfTeX warning: pdflatex (file ./Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf): PDF
+ inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf, id=1159, 363.3575pt x 302.12875pt>
 File: Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf>
 Package pdftex.def Info: Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf  used on inpu
 t line 681.
-(pdftex.def)             Requested size: 155.24895pt x 116.78052pt.
-<Tex-Figures/Fig21b-EnergyCapacity-Al.pdf, id=1029, 347.2975pt x 255.95625pt>
+(pdftex.def)             Requested size: 155.24895pt x 129.09222pt.
+
+
+pdfTeX warning: pdflatex (file ./Tex-Figures/Fig21b-EnergyCapacity-Al.pdf): PDF
+ inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig21b-EnergyCapacity-Al.pdf, id=1160, 370.38374pt x 302.12875pt>
 File: Tex-Figures/Fig21b-EnergyCapacity-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig21b-EnergyCapacity-Al.pdf>
 Package pdftex.def Info: Tex-Figures/Fig21b-EnergyCapacity-Al.pdf  used on inpu
 t line 688.
-(pdftex.def)             Requested size: 155.24895pt x 114.42155pt.
+(pdftex.def)             Requested size: 155.24895pt x 126.63965pt.
+[35 <./Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf> <./Tex-Figures/Fig21b-EnergyCa
+pacity-Al.pdf>]
 
-[34 <./Tex-Figures/Fig20-energyAbsorptionEfficiency.png>]
-<Tex-Figures/Fig22a-energyEfficiency-Fe.pdf, id=1038, 350.30875pt x 255.95625pt
->
+pdfTeX warning: pdflatex (file ./Tex-Figures/Fig22a-energyEfficiency-Fe.pdf): P
+DF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig22a-energyEfficiency-Fe.pdf, id=1180, 369.38pt x 302.12875pt>
 File: Tex-Figures/Fig22a-energyEfficiency-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig22a-energyEfficiency-Fe.pdf>
 Package pdftex.def Info: Tex-Figures/Fig22a-energyEfficiency-Fe.pdf  used on in
 put line 703.
-(pdftex.def)             Requested size: 155.24895pt x 113.43735pt.
-<Tex-Figures/Fig22b-energyEfficiency-Al.pdf, id=1039, 350.30875pt x 255.95625pt
->
+(pdftex.def)             Requested size: 155.24895pt x 126.98079pt.
+
+
+pdfTeX warning: pdflatex (file ./Tex-Figures/Fig22b-energyEfficiency-Al.pdf): P
+DF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig22b-energyEfficiency-Al.pdf, id=1181, 369.38pt x 302.12875pt>
 File: Tex-Figures/Fig22b-energyEfficiency-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig22b-energyEfficiency-Al.pdf>
 Package pdftex.def Info: Tex-Figures/Fig22b-energyEfficiency-Al.pdf  used on in
 put line 710.
-(pdftex.def)             Requested size: 155.24895pt x 113.43735pt.
-
-
-Package natbib Warning: Citation `grunder_modeling_2001' on page 35 undefined o
-n input line 720.
-
-
-Package natbib Warning: Citation `Fallet2008' on page 35 undefined on input lin
-e 720.
-
-[35 <./Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf> <./Tex-Figures/Fig21b-EnergyCa
-pacity-Al.pdf>]
-
-Package natbib Warning: Citation `EC3-1-2' on page 36 undefined on input line 7
-22.
-
-
-Package natbib Warning: Citation `EC9-1-2' on page 36 undefined on input line 7
-24.
-
-
-Package natbib Warning: Citation `Taherishargh2018' on page 36 undefined on inp
-ut line 724.
-
-
-Package natbib Warning: Citation `Aly2007' on page 36 undefined on input line 7
-24.
-
-
-Package natbib Warning: Citation `Kovacicetal2016' on page 36 undefined on inpu
-t line 724.
-
-
-Package natbib Warning: Citation `Liuetal2016' on page 36 undefined on input li
-ne 724.
-
-
-Package natbib Warning: Citation `BekozOktay2014' on page 36 undefined on input
- line 724.
-
+(pdftex.def)             Requested size: 155.24895pt x 126.98079pt.
 [36 <./Tex-Figures/Fig22a-energyEfficiency-Fe.pdf> <./Tex-Figures/Fig22b-energy
-Efficiency-Al.pdf>]
-<Tex-Figures/Fig23a-retentionFactor-Fe.pdf, id=1067, 350.30875pt x 252.945pt>
+Efficiency-Al.pdf>] [37]
+
+pdfTeX warning: pdflatex (file ./Tex-Figures/Fig23a-retentionFactor-Fe.pdf): PD
+F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig23a-retentionFactor-Fe.pdf, id=1216, 369.38pt x 298.11375pt>
 File: Tex-Figures/Fig23a-retentionFactor-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig23a-retentionFactor-Fe.pdf>
 Package pdftex.def Info: Tex-Figures/Fig23a-retentionFactor-Fe.pdf  used on inp
 ut line 733.
-(pdftex.def)             Requested size: 155.24895pt x 112.1028pt.
-<Tex-Figures/Fig23b-retentionFactor-Al.pdf, id=1068, 350.30875pt x 252.945pt>
+(pdftex.def)             Requested size: 155.24895pt x 125.29335pt.
+
+
+pdfTeX warning: pdflatex (file ./Tex-Figures/Fig23b-retentionFactor-Al.pdf): PD
+F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig23b-retentionFactor-Al.pdf, id=1217, 369.38pt x 298.11375pt>
 File: Tex-Figures/Fig23b-retentionFactor-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig23b-retentionFactor-Al.pdf>
 Package pdftex.def Info: Tex-Figures/Fig23b-retentionFactor-Al.pdf  used on inp
 ut line 740.
-(pdftex.def)             Requested size: 155.24895pt x 112.1028pt.
+(pdftex.def)             Requested size: 155.24895pt x 125.29335pt.
 
-
-Package natbib Warning: Citation `EC3-1-2' on page 37 undefined on input line 7
-44.
-
-
-Package natbib Warning: Citation `EC3-1-2' on page 37 undefined on input line 7
-44.
-
-
-Package natbib Warning: Citation `EC3-1-2' on page 37 undefined on input line 7
-44.
-
-
-Package natbib Warning: Citation `EC3-1-2' on page 37 undefined on input line 7
-44.
-
-
-Package natbib Warning: Citation `BekozOktay2014' on page 37 undefined on input
- line 748.
-
-
-Package natbib Warning: Citation `BekozOktay2014' on page 37 undefined on input
- line 748.
-
-[37 <./Tex-Figures/Fig23a-retentionFactor-Fe.pdf> <./Tex-Figures/Fig23b-retenti
-onFactor-Al.pdf>]
 Overfull \hbox (5.22282pt too wide) in paragraph at lines 750--751
 \OT1/cmr/m/n/10 i-cal re-ac-tions could have a sig-nif-i-cant pos-i-tive in-flu
 -ence on the thermal-mechanical
  []
 
-
-Package natbib Warning: Citation `Sch2011' on page 38 undefined on input line 7
-56.
-
-[38] [39]
+[38 <./Tex-Figures/Fig23a-retentionFactor-Fe.pdf> <./Tex-Figures/Fig23b-retenti
+onFactor-Al.pdf>] [39]
 Overfull \hbox (99.32246pt too wide) in paragraph at lines 763--778
 [][] 
  []
 
-(FirePaperRevised.nls [40] [41]) [42]
-No file FirePaperRevised.bbl.
-[43]
+[40] (FirePaperRevised.nls [41] [42]) [43] (FirePaperRevised.bbl [44] [45]
+[46] [47] [48]) [49]
 
 LaTeX Warning: Float too large for page by 86.39156pt on input line 905.
 
 
 LaTeX Warning: Float too large for page by 86.39156pt on input line 940.
 
-[44] [45]
-
-Package natbib Warning: There were undefined citations.
-
+[50] [51]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 944.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 944.
-(FirePaperRevised.aux)
+ (FirePaperRevised.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 944.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 944.
 Package rerunfilecheck Info: File `FirePaperRevised.out' has not changed.
@@ -1166,38 +891,38 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 944.
  ) 
 Here is how much of TeX's memory you used:
- 9597 strings out of 492895
- 148556 string characters out of 3133453
- 302651 words of memory out of 3000000
- 13228 multiletter control sequences out of 15000+200000
- 11182 words of font info for 43 fonts, out of 3000000 for 9000
+ 9794 strings out of 492895
+ 152569 string characters out of 3133453
+ 304378 words of memory out of 3000000
+ 13370 multiletter control sequences out of 15000+200000
+ 11041 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,15n,77p,2801b,559s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,15n,77p,2801b,596s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-mi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmtt8.pfb>
-Output written on FirePaperRevised.pdf (45 pages, 6438278 bytes).
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmsy5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmtt8.pfb>
+Output written on FirePaperRevised.pdf (51 pages, 7051124 bytes).
 PDF statistics:
- 1250 PDF objects out of 1440 (max. 8388607)
- 119 named destinations out of 1000 (max. 500000)
+ 1473 PDF objects out of 1728 (max. 8388607)
+ 172 named destinations out of 1000 (max. 500000)
  317 words of extra memory for PDF output out of 10000 (max. 10000000)
 
