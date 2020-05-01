@@ -1,0 +1,51 @@
+%
+% brownletter_example.tex - an example latex file to illustrate brownletter.cls
+%
+% Copyright 2003, Nesime Tatbul (tatbul@cs.brown.edu)
+%
+
+\documentclass[11pt]{durhamLetter}
+
+\name{Stefan Szyniszewski} % used as signature, if no signature is specified
+\signature{Assistant Professor of Material and Structures}
+%\date{November 4th, 2019} % if no date specified, today's date is used 
+\newcommand{\JournalName}{International Journal of Mechanical Sciences}
+
+%\subject{} % optional subject line
+
+\begin{document}
+
+\begin{letter}{
+		Editorial Team \\
+		\JournalName
+               }
+
+\opening{Dear Editorial Team}
+
+Attached is a revised submission the article titled “Mechanical Behavior of Steel and Aluminum Foams at High Temperatures” co-authored with graduate student Miguel Tavares, Dr Jonathan Weigand, Prof. Luiz Vieira Jr, and Prof. Saulo Almeida.
+
+We are grateful for helpful comments to the three reviewers. We have taken the feedback into account and improved figures and clarity of the article. The abstract and conclusions were shortened and the quality of the figures as well as depth and breadth of the citations expanded.
+
+Generally speaking, our submission links the micro-mechanics of hollow sphere and powder metallurgy foams with their performance at elevated temperatures, for steel foams up to 700 C and for aluminum foams reaching 500 C. Our study combines micro-scale simulations and analytical study of unit cell buckling with experimental testing and validation. Our computational study revealed a possibility for a new range of ultra-thin-walled cellular structures, which are predicted to fall within the elastic buckling regime at the local level. Thus, their deformations will be reversible even under high strains and their thermal behavior controlled by the thermal deterioration of elastic constants, and not plasticity parameters such as yield stress. 
+
+Majority of currently produced cellular metals have relatively thick cell walls and consequently fail locally by plastic buckling. Thus, their thermo-mechanical behavior is controlled by the yield stress of the base metal as demonstrated computationally and experientially in the attached article. Our mechanistic insights are accompanied by an analytical formula producing stress-strain curves of steel and aluminum foams at elevated temperatures. Temperature dependent parameters for the tested steel and aluminum foams are tabulated in the appendix.
+
+I appreciate your time in conducting a review of the revised paper and the opportunity to publish in the journal.
+
+Sincerely,
+
+\vspace{1\parskip}%
+
+\closing{ Stefan Szyniszewski \\
+	\includegraphics[width=0.8\linewidth]{Signature.png}
+}
+
+%\encl{brownletter.cls}
+
+%\ps{Please note, you will need to apply for funding to cover the purchase of the profile and experimental costs. We can discuss it during our next meeting.}
+
+%\cc{Name}
+
+\end{letter}
+
+\end{document}
