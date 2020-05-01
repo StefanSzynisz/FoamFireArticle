@@ -1,15 +1,16 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2020.2.10)  1 MAY 2020 18:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2020.3.2)  1 MAY 2020 22:55
 entering extended mode
 **./FirePaperRevised.tex
 (FirePaperRevised.tex
-LaTeX2e <2018-12-01>
-("C:\Program Files\MiKTeX 2.9\tex/latex/elsarticle\elsarticle.cls"
+LaTeX2e <2018-04-01> patch level 5
+
+(C:\Users\ss0052\AppData\Roaming\MiKTeX\2.9\tex\latex\elsarticle\elsarticle.cls
 Document Class: elsarticle 2019/02/25, 3.2: Elsevier Ltd
 \@bls=\dimen102
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
-Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\size10.clo"
-File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@section=\count81
@@ -23,25 +24,25 @@ File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen103
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen104
@@ -54,21 +55,21 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \c@author=\count92
 \@eadauthor=\toks15
 \c@affn=\count93
-\absbox=\box27
-\elsarticlehighlightsbox=\box28
-\elsarticlegrabsbox=\box29
-\keybox=\box30
+\absbox=\box26
+\elsarticlehighlightsbox=\box27
+\elsarticlegrabsbox=\box28
+\keybox=\box29
 \Columnwidth=\dimen106
 \space@left=\dimen107
-\els@boxa=\box31
-\els@boxb=\box32
+\els@boxa=\box30
+\els@boxb=\box31
 \leftMargin=\dimen108
 \@enLab=\toks16
 \@sep=\skip43
 \@@sep=\skip44
 
-(FirePaperRevised.spl) ("C:\Program Files\MiKTeX 2.9\tex/latex/natbib\natbib.st
-y"
+(FirePaperRevised.spl)
+(C:\Users\ss0052\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip45
 \bibsep=\skip46
@@ -79,7 +80,8 @@ LaTeX Info: Redefining \cite on input line 694.
 \openout3 = `FirePaperRevised.spl'.
 
 \appnamewidth=\dimen109
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/lineno\lineno.sty"
+)
+(C:\Users\ss0052\AppData\Roaming\MiKTeX\2.9\tex\latex\lineno\lineno.sty
 Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 \linenopenalty=\count95
 \output=\toks17
@@ -94,17 +96,17 @@ Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 \quotelinenumbersep=\dimen112
 \bframerule=\dimen113
 \bframesep=\dimen114
-\bframebox=\box33
+\bframebox=\box32
 LaTeX Info: Redefining \\ on input line 3056.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
-Package: hyperref 2019/06/12 v6.88h Hypertext links for LaTeX
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2018/09/30 v6.88a Hypertext links for LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-hyperref.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-generic.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -116,9 +118,13 @@ Package ifvtex Info: VTeX not detected.
 Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -140,75 +146,75 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen115
 \Hy@linkcounter=\count102
 \Hy@pagecounter=\count103
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
-File: pd1enc.def 2019/06/12 v6.88h Hyperref: PDFDocEncoding definition (HO)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2018/09/30 v6.88a Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count104
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Hyper figures OFF on input line 4550.
-Package hyperref Info: Link nesting OFF on input line 4555.
-Package hyperref Info: Hyper index ON on input line 4558.
-Package hyperref Info: Plain pages OFF on input line 4565.
-Package hyperref Info: Backreferencing OFF on input line 4570.
+Package hyperref Info: Hyper figures OFF on input line 4535.
+Package hyperref Info: Link nesting OFF on input line 4540.
+Package hyperref Info: Hyper index ON on input line 4543.
+Package hyperref Info: Plain pages OFF on input line 4550.
+Package hyperref Info: Backreferencing OFF on input line 4555.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4803.
+Package hyperref Info: Bookmarks ON on input line 4788.
 \c@Hy@tempcnt=\count105
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
+(C:\Users\ss0052\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5156.
+LaTeX Info: Redefining \url on input line 5141.
 \XeTeXLinkMargin=\dimen116
 \Fld@menulength=\count106
 \Field@Width=\dimen117
 \Fld@charsize=\dimen118
-Package hyperref Info: Hyper figures OFF on input line 6411.
-Package hyperref Info: Link nesting OFF on input line 6416.
-Package hyperref Info: Hyper index ON on input line 6419.
-Package hyperref Info: backreferencing OFF on input line 6426.
-Package hyperref Info: Link coloring OFF on input line 6431.
-Package hyperref Info: Link coloring with OCG OFF on input line 6436.
-Package hyperref Info: PDF/A mode OFF on input line 6441.
-LaTeX Info: Redefining \ref on input line 6481.
-LaTeX Info: Redefining \pageref on input line 6485.
+Package hyperref Info: Hyper figures OFF on input line 6396.
+Package hyperref Info: Link nesting OFF on input line 6401.
+Package hyperref Info: Hyper index ON on input line 6404.
+Package hyperref Info: backreferencing OFF on input line 6411.
+Package hyperref Info: Link coloring OFF on input line 6416.
+Package hyperref Info: Link coloring with OCG OFF on input line 6421.
+Package hyperref Info: PDF/A mode OFF on input line 6426.
+LaTeX Info: Redefining \ref on input line 6466.
+LaTeX Info: Redefining \pageref on input line 6470.
 \Hy@abspage=\count107
 \c@Item=\count108
 \c@Hfootnote=\count109
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
-File: hpdftex.def 2019/06/12 v6.88h Hyperref driver for pdfTeX
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2018/09/30 v6.88a Hyperref driver for pdfTeX
 \Fld@listcount=\count110
 \c@bookmark@seq@number=\count111
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\rerunfilecheck.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip47
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/soul\soul.sty"
+(C:\Users\ss0052\AppData\Roaming\MiKTeX\2.9\tex\latex\soul\soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@word=\toks18
 \SOUL@lasttoken=\toks19
@@ -220,41 +226,41 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@uldp=\dimen120
 \SOUL@ulht=\dimen121
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
-Package: amsmath 2018/12/01 v2.17b AMS math features
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks23
 \ex@=\dimen122
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen123
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count112
-LaTeX Info: Redefining \frac on input line 223.
+LaTeX Info: Redefining \frac on input line 213.
 \uproot@=\count113
 \leftroot@=\count114
-LaTeX Info: Redefining \overline on input line 385.
+LaTeX Info: Redefining \overline on input line 375.
 \classnum@=\count115
 \DOTSCASE@=\count116
-LaTeX Info: Redefining \ldots on input line 482.
-LaTeX Info: Redefining \dots on input line 485.
-LaTeX Info: Redefining \cdots on input line 606.
-\Mathstrutbox@=\box34
-\strutbox@=\box35
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box33
+\strutbox@=\box34
 \big@size=\dimen124
-LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \macc@depth=\count117
 \c@MaxMatrixCols=\count118
 \dotsspace@=\muskip11
@@ -275,26 +281,26 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 \multlinegap=\skip50
 \multlinetaggap=\skip51
 \mathdisplay@stack=\toks27
-LaTeX Info: Redefining \[ on input line 2844.
-LaTeX Info: Redefining \] on input line 2845.
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
 Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -304,13 +310,13 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/caption\subcaption.sty"
+(C:\Users\ss0052\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\subcaption.sty
 Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption.sty"
+(C:\Users\ss0052\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
 Package: caption 2020/01/03 v3.4h Customizing captions (AR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption3.sty"
+(C:\Users\ss0052\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
 Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 61.
 \captionmargin=\dimen131
@@ -329,8 +335,8 @@ Package caption Info: hyperref package is loaded.
 \c@subfigure=\count126
 \c@subtable=\count127
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/booktabs\booktabs.sty"
-Package: booktabs 2019/10/08 v1.6180339 publication quality tables
+(C:\Users\ss0052\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen138
 \lightrulewidth=\dimen139
 \cmidrulewidth=\dimen140
@@ -349,54 +355,54 @@ Package: booktabs 2019/10/08 v1.6180339 publication quality tables
 \@lastruleclass=\count131
 \@thisrulewidth=\dimen150
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/multirow\multirow.sty"
-Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2018/08/03 v2.3 Span multiple rows of a table
 \multirow@colwidth=\skip52
 \multirow@cntb=\count132
 \multirow@dima=\skip53
 \bigstrutjot=\dimen151
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\rotating.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\rotating.sty"
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@r@tfl@t=\count133
 \rotFPtop=\skip54
 \rotFPbot=\skip55
-\rot@float@box=\box36
+\rot@float@box=\box35
 \rot@mess@toks=\toks28
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/placeins\placeins.sty"
+(C:\Users\ss0052\AppData\Roaming\MiKTeX\2.9\tex\latex\placeins\placeins.sty
 Package: placeins 2005/04/18  v 2.2
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/nomencl\nomencl.sty"
+(C:\Users\ss0052\AppData\Roaming\MiKTeX\2.9\tex\latex\nomencl\nomencl.sty
 Package: nomencl 2020/03/01 v5.4 Nomenclature package
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.tex"
-("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
 \XKV@toks=\toks29
 \XKV@tempa@toks=\toks30
 )
 \XKV@depth=\count134
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\tocbasic.sty"
+(C:\Users\ss0052\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\tocbasic.sty
 Package: tocbasic 2020/01/24 v3.29 KOMA-Script package (handling toc-files)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\scrbase.sty"
+(C:\Users\ss0052\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrbase.sty
 Package: scrbase 2020/01/24 v3.29 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\scrlfile.sty"
+(C:\Users\ss0052\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrlfile.sty
 Package: scrlfile 2020/01/24 v3.29 KOMA-Script package (loading files)
 ))
 \scr@dte@tocline@numberwidth=\skip56
-\scr@dte@tocline@numbox=\box37
+\scr@dte@tocline@numbox=\box36
 )
 Package tocbasic Info: setting babel extension for `nlo' on input line 179.
 Package tocbasic Info: setting babel extension for `nls' on input line 180.
@@ -409,8 +415,7 @@ Package tocbasic Info: setting babel extension for `nls' on input line 180.
 
 Package nomencl Info: Writing nomenclature file FirePaperRevised.nlo on input l
 ine 55.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\lscape.sty"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 (FirePaperRevised.aux
@@ -455,11 +460,12 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
- ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+
+(C:\Users\ss0052\AppData\Roaming\MiKTeX\2.9\tex\context\base\mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count135
 \scratchdimen=\dimen154
-\scratchbox=\box38
+\scratchbox=\box37
 \nofMPsegments=\count136
 \nofMParguments=\count137
 \everyMPshowfont=\toks31
@@ -469,12 +475,12 @@ LaTeX Font Info:    ... okay on input line 59.
 \makeMPintoPDFobject=\count140
 \everyMPtoPDFconversion=\toks32
 )
-\AtBeginShipoutBox=\box39
+\AtBeginShipoutBox=\box38
 Package hyperref Info: Link coloring OFF on input line 59.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count141
@@ -492,12 +498,12 @@ Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Try loading font information for U+msa on input line 81.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 81.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Overfull \hbox (2.22221pt too wide) has occurred while \output is active
@@ -523,8 +529,8 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 [1
 
 
-{C:/Users/Saulo Almeida/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[2] [3] [4] [5] [6]
+{C:/Users/ss0052/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+[3] [4] [5] [6]
 <Tex-Figures/Fig01a_b_c.png, id=177, 673.76718pt x 219.06844pt>
 File: Tex-Figures/Fig01a_b_c.png Graphic file (type png)
 <use Tex-Figures/Fig01a_b_c.png>
@@ -538,8 +544,8 @@ Package pdftex.def Info: Tex-Figures/Fig02a_b.png  used on input line 131.
 (pdftex.def)             Requested size: 276.00105pt x 137.18774pt.
 
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig03a.pdf): PDF inclusion: found 
-PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig03a.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
 <Tex-Figures/Fig03a.pdf, id=191, 378.41376pt x 273.02pt>
 File: Tex-Figures/Fig03a.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig03a.pdf>
@@ -547,8 +553,8 @@ Package pdftex.def Info: Tex-Figures/Fig03a.pdf  used on input line 143.
 (pdftex.def)             Requested size: 163.87447pt x 118.23366pt.
 
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig03b.pdf): PDF inclusion: found 
-PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig03b.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
 <Tex-Figures/Fig03b.pdf, id=192, 376.40625pt x 273.02pt>
 File: Tex-Figures/Fig03b.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig03b.pdf>
@@ -584,8 +590,8 @@ Package pdftex.def Info: Tex-Figures/Fig07.pdf  used on input line 243.
 (pdftex.def)             Requested size: 258.75pt x 231.58878pt.
  [13] [14 <./Tex-Figures/Fig07.pdf>]
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig08a.pdf): PDF inclusion: found 
-PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig08a.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
 <Tex-Figures/Fig08a.pdf, id=393, 374.39874pt x 273.02pt>
 File: Tex-Figures/Fig08a.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig08a.pdf>
@@ -593,8 +599,8 @@ Package pdftex.def Info: Tex-Figures/Fig08a.pdf  used on input line 262.
 (pdftex.def)             Requested size: 169.04926pt x 123.27446pt.
 
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig08b.pdf): PDF inclusion: found 
-PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig08b.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
 <Tex-Figures/Fig08b.pdf, id=394, 374.39874pt x 273.02pt>
 File: Tex-Figures/Fig08b.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig08b.pdf>
@@ -602,8 +608,8 @@ Package pdftex.def Info: Tex-Figures/Fig08b.pdf  used on input line 268.
 (pdftex.def)             Requested size: 169.04926pt x 123.27446pt.
 
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig09-Blue_brittleness.pdf): PDF i
-nclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig09-Blue_brittleness.pdf): P
+DF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <Tex-Figures/Fig09-Blue_brittleness.pdf, id=395, 979.66pt x 687.56876pt>
 File: Tex-Figures/Fig09-Blue_brittleness.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig09-Blue_brittleness.pdf>
@@ -628,8 +634,8 @@ ine 338.
 (pdftex.def)             Requested size: 276.00105pt x 261.21255pt.
  [20] [21 <./Tex-Figures/Fig11-PlasticBuckling.png>] [22]
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig12a_Buckling_b_t.pdf): PDF incl
-usion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig12a_Buckling_b_t.pdf): PDF 
+inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <Tex-Figures/Fig12a_Buckling_b_t.pdf, id=501, 388.45125pt x 271.0125pt>
 File: Tex-Figures/Fig12a_Buckling_b_t.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig12a_Buckling_b_t.pdf>
@@ -638,8 +644,8 @@ e 397.
 (pdftex.def)             Requested size: 213.0348pt x 148.6314pt.
 
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig12b_Buckling_lambda.pdf): PDF i
-nclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig12b_Buckling_lambda.pdf): P
+DF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <Tex-Figures/Fig12b_Buckling_lambda.pdf, id=502, 380.42125pt x 273.02pt>
 File: Tex-Figures/Fig12b_Buckling_lambda.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig12b_Buckling_lambda.pdf>
@@ -649,8 +655,8 @@ line 407.
 [23] [24 <./Tex-Figures/Fig12a_Buckling_b_t.pdf> <./Tex-Figures/Fig12b_Buckling
 _lambda.pdf>] [25]
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig13a-yield_stress.pdf): PDF incl
-usion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig13a-yield_stress.pdf): PDF 
+inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <Tex-Figures/Fig13a-yield_stress.pdf, id=532, 369.38pt x 298.11375pt>
 File: Tex-Figures/Fig13a-yield_stress.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig13a-yield_stress.pdf>
@@ -659,8 +665,8 @@ e 457.
 (pdftex.def)             Requested size: 163.87447pt x 132.25763pt.
 
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig13b-yield_stress.pdf): PDF incl
-usion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig13b-yield_stress.pdf): PDF 
+inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <Tex-Figures/Fig13b-yield_stress.pdf, id=533, 369.38pt x 298.11375pt>
 File: Tex-Figures/Fig13b-yield_stress.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig13b-yield_stress.pdf>
@@ -669,8 +675,8 @@ e 464.
 (pdftex.def)             Requested size: 163.87447pt x 132.25763pt.
 
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig14a-plateau_stress.pdf): PDF in
-clusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig14a-plateau_stress.pdf): PD
+F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <Tex-Figures/Fig14a-plateau_stress.pdf, id=535, 369.38pt x 298.11375pt>
 File: Tex-Figures/Fig14a-plateau_stress.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig14a-plateau_stress.pdf>
@@ -679,8 +685,8 @@ ine 483.
 (pdftex.def)             Requested size: 163.87447pt x 132.25763pt.
 
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig14b-plateau_stress.pdf): PDF in
-clusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig14b-plateau_stress.pdf): PD
+F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <Tex-Figures/Fig14b-plateau_stress.pdf, id=536, 369.38pt x 298.11375pt>
 File: Tex-Figures/Fig14b-plateau_stress.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig14b-plateau_stress.pdf>
@@ -723,8 +729,8 @@ nput line 577.
 StressStrain-fit-Al.pdf>] [31 <./Tex-Figures/Fig16a-quasi-Elastic-fit-Fe.pdf> <
 ./Tex-Figures/Fig16b-quasi-Elastic-fit-Al.pdf>]
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig17a-qElast-Fe.pdf): PDF inclusi
-on: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig17a-qElast-Fe.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
 <Tex-Figures/Fig17a-qElast-Fe.pdf, id=635, 369.38pt x 302.12875pt>
 File: Tex-Figures/Fig17a-qElast-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig17a-qElast-Fe.pdf>
@@ -733,8 +739,8 @@ Package pdftex.def Info: Tex-Figures/Fig17a-qElast-Fe.pdf  used on input line 5
 (pdftex.def)             Requested size: 155.24895pt x 126.98079pt.
 
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig17b-qElast-Al.pdf): PDF inclusi
-on: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig17b-qElast-Al.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
 <Tex-Figures/Fig17b-qElast-Al.pdf, id=636, 369.38pt x 298.11375pt>
 File: Tex-Figures/Fig17b-qElast-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig17b-qElast-Al.pdf>
@@ -743,8 +749,8 @@ Package pdftex.def Info: Tex-Figures/Fig17b-qElast-Al.pdf  used on input line 6
 (pdftex.def)             Requested size: 155.24895pt x 125.29335pt.
 
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf): PD
-F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf)
+: PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf, id=641, 366.36874pt x 298.11375pt>
 File: Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf>
@@ -753,8 +759,8 @@ ut line 619.
 (pdftex.def)             Requested size: 155.24895pt x 126.32593pt.
 
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig18b-quasi-Hardening-Al.pdf): PD
-F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig18b-quasi-Hardening-Al.pdf)
+: PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <Tex-Figures/Fig18b-quasi-Hardening-Al.pdf, id=642, 366.36874pt x 298.11375pt>
 File: Tex-Figures/Fig18b-quasi-Hardening-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig18b-quasi-Hardening-Al.pdf>
@@ -763,8 +769,8 @@ ut line 626.
 (pdftex.def)             Requested size: 155.24895pt x 126.32593pt.
 [32 <./Tex-Figures/Fig17a-qElast-Fe.pdf> <./Tex-Figures/Fig17b-qElast-Al.pdf>]
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig19a-densification-Fe.pdf): PDF 
-inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig19a-densification-Fe.pdf): 
+PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <Tex-Figures/Fig19a-densification-Fe.pdf, id=662, 376.40625pt x 302.12875pt>
 File: Tex-Figures/Fig19a-densification-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig19a-densification-Fe.pdf>
@@ -773,8 +779,8 @@ Package pdftex.def Info: Tex-Figures/Fig19a-densification-Fe.pdf  used on input
 (pdftex.def)             Requested size: 155.24895pt x 124.61581pt.
 
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig19b-densification-Al.pdf): PDF 
-inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig19b-densification-Al.pdf): 
+PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <Tex-Figures/Fig19b-densification-Al.pdf, id=663, 376.40625pt x 302.12875pt>
 File: Tex-Figures/Fig19b-densification-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig19b-densification-Al.pdf>
@@ -783,19 +789,19 @@ Package pdftex.def Info: Tex-Figures/Fig19b-densification-Al.pdf  used on input
 (pdftex.def)             Requested size: 155.24895pt x 124.61581pt.
 [33 <./Tex-Figures/Fig18a-quasi-Hardening-Fe.pdf> <./Tex-Figures/Fig18b-quasi-H
 ardening-Al.pdf>]
-<Tex-Figures/Fig20-energyAbsorptionEfficiency.png, id=686, 275.22826pt x 222.83
-25pt>
-File: Tex-Figures/Fig20-energyAbsorptionEfficiency.png Graphic file (type png)
-<use Tex-Figures/Fig20-energyAbsorptionEfficiency.png>
-Package pdftex.def Info: Tex-Figures/Fig20-energyAbsorptionEfficiency.png  used
+<Tex-Figures/Fig20-energyAbsorptionEfficiency.pdf, id=686, 426.59375pt x 284.06
+125pt>
+File: Tex-Figures/Fig20-energyAbsorptionEfficiency.pdf Graphic file (type pdf)
+<use Tex-Figures/Fig20-energyAbsorptionEfficiency.pdf>
+Package pdftex.def Info: Tex-Figures/Fig20-energyAbsorptionEfficiency.pdf  used
  on input line 667.
-(pdftex.def)             Requested size: 207.0021pt x 167.59998pt.
+(pdftex.def)             Requested size: 207.0021pt x 137.84322pt.
  [34 <./Tex-Figures/Fig19a-densification-Fe.pdf> <./Tex-Figures/Fig19b-densific
-ation-Al.pdf> <./Tex-Figures/Fig20-energyAbsorptionEfficiency.png>]
+ation-Al.pdf> <./Tex-Figures/Fig20-energyAbsorptionEfficiency.pdf>]
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf): PDF
- inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf, id=705, 363.3575pt x 302.12875pt>
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf):
+ PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf, id=708, 363.3575pt x 302.12875pt>
 File: Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf>
 Package pdftex.def Info: Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf  used on inpu
@@ -803,9 +809,9 @@ t line 681.
 (pdftex.def)             Requested size: 155.24895pt x 129.09222pt.
 
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig21b-EnergyCapacity-Al.pdf): PDF
- inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig21b-EnergyCapacity-Al.pdf, id=706, 370.38374pt x 302.12875pt>
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig21b-EnergyCapacity-Al.pdf):
+ PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig21b-EnergyCapacity-Al.pdf, id=709, 370.38374pt x 302.12875pt>
 File: Tex-Figures/Fig21b-EnergyCapacity-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig21b-EnergyCapacity-Al.pdf>
 Package pdftex.def Info: Tex-Figures/Fig21b-EnergyCapacity-Al.pdf  used on inpu
@@ -814,9 +820,9 @@ t line 688.
 [35 <./Tex-Figures/Fig21a-EnergyCapacity-Fe.pdf> <./Tex-Figures/Fig21b-EnergyCa
 pacity-Al.pdf>]
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig22a-energyEfficiency-Fe.pdf): P
-DF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig22a-energyEfficiency-Fe.pdf, id=726, 369.38pt x 302.12875pt>
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig22a-energyEfficiency-Fe.pdf
+): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig22a-energyEfficiency-Fe.pdf, id=729, 369.38pt x 302.12875pt>
 File: Tex-Figures/Fig22a-energyEfficiency-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig22a-energyEfficiency-Fe.pdf>
 Package pdftex.def Info: Tex-Figures/Fig22a-energyEfficiency-Fe.pdf  used on in
@@ -824,9 +830,9 @@ put line 703.
 (pdftex.def)             Requested size: 155.24895pt x 126.98079pt.
 
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig22b-energyEfficiency-Al.pdf): P
-DF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig22b-energyEfficiency-Al.pdf, id=727, 369.38pt x 302.12875pt>
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig22b-energyEfficiency-Al.pdf
+): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig22b-energyEfficiency-Al.pdf, id=730, 369.38pt x 302.12875pt>
 File: Tex-Figures/Fig22b-energyEfficiency-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig22b-energyEfficiency-Al.pdf>
 Package pdftex.def Info: Tex-Figures/Fig22b-energyEfficiency-Al.pdf  used on in
@@ -835,9 +841,9 @@ put line 710.
 [36 <./Tex-Figures/Fig22a-energyEfficiency-Fe.pdf> <./Tex-Figures/Fig22b-energy
 Efficiency-Al.pdf>] [37]
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig23a-retentionFactor-Fe.pdf): PD
-F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig23a-retentionFactor-Fe.pdf, id=762, 369.38pt x 298.11375pt>
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig23a-retentionFactor-Fe.pdf)
+: PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig23a-retentionFactor-Fe.pdf, id=765, 369.38pt x 298.11375pt>
 File: Tex-Figures/Fig23a-retentionFactor-Fe.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig23a-retentionFactor-Fe.pdf>
 Package pdftex.def Info: Tex-Figures/Fig23a-retentionFactor-Fe.pdf  used on inp
@@ -845,9 +851,9 @@ ut line 733.
 (pdftex.def)             Requested size: 155.24895pt x 125.29335pt.
 
 
-pdfTeX warning: pdflatex (file ./Tex-Figures/Fig23b-retentionFactor-Al.pdf): PD
-F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Tex-Figures/Fig23b-retentionFactor-Al.pdf, id=763, 369.38pt x 298.11375pt>
+pdfTeX warning: pdflatex.exe (file ./Tex-Figures/Fig23b-retentionFactor-Al.pdf)
+: PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Tex-Figures/Fig23b-retentionFactor-Al.pdf, id=766, 369.38pt x 298.11375pt>
 File: Tex-Figures/Fig23b-retentionFactor-Al.pdf Graphic file (type pdf)
 <use Tex-Figures/Fig23b-retentionFactor-Al.pdf>
 Package pdftex.def Info: Tex-Figures/Fig23b-retentionFactor-Al.pdf  used on inp
@@ -888,10 +894,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 944.
  ) 
 Here is how much of TeX's memory you used:
- 9794 strings out of 492895
- 152569 string characters out of 3133453
- 304378 words of memory out of 3000000
- 13370 multiletter control sequences out of 15000+200000
+ 9782 strings out of 492970
+ 152193 string characters out of 3135853
+ 303266 words of memory out of 3000000
+ 13315 multiletter control sequences out of 15000+200000
  11041 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,15n,77p,2801b,596s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -917,9 +923,9 @@ les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmtt8.pfb>
-Output written on FirePaperRevised.pdf (51 pages, 6898073 bytes).
+Output written on FirePaperRevised.pdf (51 pages, 6984293 bytes).
 PDF statistics:
- 1025 PDF objects out of 1200 (max. 8388607)
+ 1028 PDF objects out of 1200 (max. 8388607)
  172 named destinations out of 1000 (max. 500000)
  317 words of extra memory for PDF output out of 10000 (max. 10000000)
 
